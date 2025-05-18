@@ -1,0 +1,7 @@
+<map id="PostFX::postProcess" name="PostFX::postProcess">
+<area shape="rect" id="Node000001" title="Execute the full post&#45;processing pipeline on a frame&#45;buffer." alt="" coords="5,31,159,56"/>
+<area shape="rect" id="Node000002" href="$dc/d91/namespacePostFX.html#a0118f43380559f09e9e80c2f73fd116a" title="Apply a simple filmic tone&#45;mapping curve." alt="" coords="225,5,357,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,31,211,25,211,30,159,37"/>
+<area shape="rect" id="Node000003" href="$dc/d91/namespacePostFX.html#a9ac2e9d3b3df1cf6cc65ea14a349f828" title="Radial vignette fall&#45;off factor for pixel *(i,j)*." alt="" coords="207,55,375,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,49,193,53,193,59,159,55"/>
+</map>

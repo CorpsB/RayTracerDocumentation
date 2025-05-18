@@ -1,0 +1,8 @@
+<map id="Viz::parseVizMode" name="Viz::parseVizMode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="271,29,413,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="373,19,364,11,342,8,323,10,314,15,312,20,317,28,313,31,307,21,310,11,322,5,342,3,366,6,376,15"/>
+<area shape="rect" id="Node000002" href="$dd/dea/classRaytracer.html#a844a5a660abbb9d21608fc170074e0c5" title="Launch the raytracing process." alt="" coords="108,29,223,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="257,45,223,45,223,39,257,39"/>
+<area shape="rect" id="Node000003" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Raimond is a good Raytracer. Logic, it&#39;s Raimond." alt="" coords="5,29,60,55"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="94,45,60,45,60,39,94,39"/>
+</map>

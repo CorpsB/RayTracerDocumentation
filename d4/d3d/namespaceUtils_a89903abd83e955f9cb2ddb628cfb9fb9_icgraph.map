@@ -1,0 +1,5 @@
+<map id="Utils::adjustSaturation" name="Utils::adjustSaturation">
+<area shape="rect" id="Node000001" title="Adjusts the saturation of a color." alt="" coords="192,5,359,31"/>
+<area shape="rect" id="Node000002" href="$d4/d3d/namespaceUtils.html#a831fec7a972be45908e92b75ebf1db30" title="Applies contrast and saturation post&#45;processing to the framebuffer." alt="" coords="5,5,144,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,21,144,21,144,15,178,15"/>
+</map>

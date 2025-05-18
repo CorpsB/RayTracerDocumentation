@@ -1,0 +1,7 @@
+<map id="include/geoTransf/Matrix.hpp" name="include/geoTransf/Matrix.hpp">
+<area shape="rect" id="Node000001" title="Declares the Matrix transformation wrapper primitive for raytracing." alt="" coords="99,5,309,31"/>
+<area shape="rect" id="Node000002" href="$dd/d52/Matrix_8cpp.html" title="Implements a generic 3×3 linear transformation on primitives (scaling, rotation, reflection,..." alt="" coords="5,79,187,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,40,115,81,112,76,174,36"/>
+<area shape="rect" id="Node000003" href="$d3/d79/SceneParser_8cpp.html" title="Implements the scene loading system using libconfig for the raytracer engine." alt="" coords="211,79,413,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="234,36,296,76,293,81,231,40"/>
+</map>

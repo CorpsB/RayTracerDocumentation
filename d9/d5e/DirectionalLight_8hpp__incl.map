@@ -1,0 +1,16 @@
+<map id="include/rendering/DirectionalLight.hpp" name="include/rendering/DirectionalLight.hpp">
+<area shape="rect" id="Node000001" title="Declares the DirectionalLight class: parallel‐ray source." alt="" coords="93,5,303,45"/>
+<area shape="rect" id="Node000002" href="$db/d54/ALight_8hpp.html" title="Abstract base class partially implementing the ILight interface." alt="" coords="111,93,202,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,47,172,82,167,80,186,44"/>
+<area shape="rect" id="Node000005" href="$d3/dde/Vector3D_8hpp.html" title="Defines a 3D vector structure with basic arithmetic and transformation operations." alt="" coords="129,313,238,339"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="206,45,217,93,217,119,217,155,215,192,205,251,193,301,188,299,200,250,210,192,212,155,211,119,211,94,201,46"/>
+<area shape="rect" id="Node000003" href="$da/da7/ILight_8hpp.html" title="Abstract interface for all light sources in the path tracer." alt="" coords="113,167,200,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="159,119,159,153,154,153,154,119"/>
+<area shape="rect" id="Node000004" href="$df/df2/Point3D_8hpp.html" title="Defines a 3D point structure used in geometric computations." alt="" coords="5,240,151,265"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="146,194,103,233,99,229,142,190"/>
+<area shape="poly" id="edge7_Node000003_Node000005" title=" " alt="" coords="161,192,181,299,176,300,156,193"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="96,263,156,303,154,308,93,268"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="104,387,167,412"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="85,265,128,373,123,375,80,267"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="178,341,153,377,148,374,173,338"/>
+</map>

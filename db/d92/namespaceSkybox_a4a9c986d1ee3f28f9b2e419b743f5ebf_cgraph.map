@@ -1,0 +1,5 @@
+<map id="Skybox::skyGradient" name="Skybox::skyGradient">
+<area shape="rect" id="Node000001" title="Procedural horizon&#45;to&#45;zenith gradient." alt="" coords="5,5,160,31"/>
+<area shape="rect" id="Node000002" href="$d7/de5/structSkybox_1_1PPMImage.html#a8413ea1e39e4485b4d3126688f0f478c" title="Bilinear sample in normalised texture coordinates." alt="" coords="208,5,411,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,15,194,15,194,21,160,21"/>
+</map>

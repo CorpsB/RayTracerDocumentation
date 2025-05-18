@@ -1,0 +1,7 @@
+<map id="RayTracer::PointLight" name="RayTracer::PointLight">
+<area shape="rect" id="Node000001" title="Emits equally in all directions from a point in space." alt="" coords="5,152,164,177"/>
+<area shape="rect" id="Node000002" href="$df/d0a/classRayTracer_1_1ALight.html" title=" " alt="" coords="17,79,152,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,118,87,152,82,152,82,118"/>
+<area shape="rect" id="Node000003" href="$d0/d82/classRayTracer_1_1ILight.html" title="Pure&#45;virtual interface for scene light sources." alt="" coords="19,5,150,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,44,87,79,82,79,82,44"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="RayTracer::Menger::generate" name="RayTracer::Menger::generate">
+<area shape="rect" id="Node000001" title="Recursively generate sub&#45;cubes." alt="" coords="204,5,355,45"/>
+<area shape="rect" id="Node000002" href="$d4/da0/classRayTracer_1_1Menger.html#ad0118ef8cb2f8a828e252b8e4a3384d1" title="Constructs a Menger Sponge." alt="" coords="5,5,156,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,28,156,28,156,23,191,23"/>
+</map>

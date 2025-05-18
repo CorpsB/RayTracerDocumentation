@@ -1,0 +1,19 @@
+<map id="src/rendering/PointLight.cpp" name="src/rendering/PointLight.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="57,5,259,31"/>
+<area shape="rect" id="Node000002" href="$d3/dfa/PointLight_8hpp.html" title=" " alt="" coords="79,79,237,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,31,161,65,155,65,155,31"/>
+<area shape="rect" id="Node000003" href="$db/d54/ALight_8hpp.html" title="Abstract base class partially implementing the ILight interface." alt="" coords="113,167,203,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="161,119,161,153,155,153,155,119"/>
+<area shape="rect" id="Node000005" href="$df/df2/Point3D_8hpp.html" title="Defines a 3D point structure used in geometric computations." alt="" coords="5,313,151,339"/>
+<area shape="poly" id="edge9_Node000002_Node000005" title=" " alt="" coords="139,121,119,142,103,168,91,202,84,238,80,299,75,299,79,237,86,201,98,166,115,139,135,117"/>
+<area shape="rect" id="Node000006" href="$d3/dde/Vector3D_8hpp.html" title="Defines a 3D vector structure with basic arithmetic and transformation operations." alt="" coords="129,387,238,412"/>
+<area shape="poly" id="edge10_Node000002_Node000006" title=" " alt="" coords="183,117,203,139,218,166,225,194,228,223,224,282,211,334,197,375,192,373,206,333,219,281,223,223,220,195,213,168,198,142,179,121"/>
+<area shape="rect" id="Node000004" href="$da/da7/ILight_8hpp.html" title="Abstract interface for all light sources in the path tracer." alt="" coords="115,240,201,265"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="161,192,161,226,155,226,155,192"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="147,267,103,306,99,302,143,263"/>
+<area shape="poly" id="edge8_Node000004_Node000006" title=" " alt="" coords="163,265,182,373,176,373,157,266"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="96,336,156,377,154,381,93,341"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="101,460,164,485"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="85,338,126,446,121,448,80,340"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="177,414,151,450,147,447,173,411"/>
+</map>

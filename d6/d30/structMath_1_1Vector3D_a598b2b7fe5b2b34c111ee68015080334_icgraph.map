@@ -1,0 +1,20 @@
+<map id="Math::Vector3D::normalized" name="Math::Vector3D::normalized">
+<area shape="rect" id="Node000001" title="Returns a normalized (unit&#45;length) copy of the vector." alt="" coords="677,127,880,153"/>
+<area shape="rect" id="Node000002" href="$df/de3/classRayTracer_1_1PointLight.html#adfcdf49661b0802206002cc8e2f5371b" title="Compute the incoming light direction at a point." alt="" coords="466,5,625,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="744,123,628,60,601,48,603,43,631,55,746,118"/>
+<area shape="rect" id="Node000003" href="$d8/d74/classRayTracer_1_1Matrix.html#a78a0a23a0003349438eec10920c145c1" title="Perform ray–transformed&#45;primitive intersection test." alt="" coords="461,70,629,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="712,127,597,98,598,93,714,121"/>
+<area shape="rect" id="Node000004" href="$da/dad/classRayTracer_1_1Rotation.html#a84b60a8550ead4a3cf6cf07a9eaa52ff" title="Tests for ray–rotated&#45;primitive intersection." alt="" coords="471,120,620,160"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="664,143,620,143,620,137,664,137"/>
+<area shape="rect" id="Node000005" href="$de/d10/classRayTracer_1_1Shear.html#a4a97e4d68ce15dade54c71359ff2474d" title="Performs ray intersection test after applying the shear transformation." alt="" coords="464,185,627,210"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="714,159,598,187,597,182,712,153"/>
+<area shape="rect" id="Node000006" href="$d1/df4/namespaceRayTracer.html#ab1ca8a59872e03b73fafc26443c5c1df" title="Recursive path&#45;tracing integrator." alt="" coords="479,258,612,283"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="744,162,571,260,568,256,742,157"/>
+<area shape="poly" id="edge9_Node000006_Node000006" title=" " alt="" coords="581,248,571,240,545,237,524,239,512,243,510,249,516,256,512,260,505,250,509,240,522,234,545,231,574,235,585,244"/>
+<area shape="rect" id="Node000007" href="$d4/d3d/namespaceUtils.html#a8e063dafa9ed499eae606a8effdb5130" title="Performs the raytracing process and produces the framebuffer." alt="" coords="271,258,413,283"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="465,273,414,273,414,268,465,268"/>
+<area shape="rect" id="Node000008" href="$dd/dea/classRaytracer.html#a844a5a660abbb9d21608fc170074e0c5" title="Launch the raytracing process." alt="" coords="108,258,223,283"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="257,273,223,273,223,268,257,268"/>
+<area shape="rect" id="Node000009" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Raimond is a good Raytracer. Logic, it&#39;s Raimond." alt="" coords="5,258,60,283"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="94,273,60,273,60,268,94,268"/>
+</map>

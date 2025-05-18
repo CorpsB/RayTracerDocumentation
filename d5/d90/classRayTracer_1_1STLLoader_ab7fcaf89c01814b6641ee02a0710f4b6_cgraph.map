@@ -1,0 +1,16 @@
+<map id="RayTracer::STLLoader::load" name="RayTracer::STLLoader::load">
+<area shape="rect" id="Node000001" title="Loads an STL file and returns its geometry as a Mesh." alt="" coords="5,73,167,113"/>
+<area shape="rect" id="Node000002" href="$d3/d4f/STLLoader_8cpp.html#a8a4be3d7ad6d081ff61b7e9743fe97cd" title=" " alt="" coords="215,5,313,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,70,219,34,221,39,135,75"/>
+<area shape="rect" id="Node000004" href="$d3/d4f/STLLoader_8cpp.html#a4725c4c7e7199370f6166982f2e9bdec" title=" " alt="" coords="215,55,313,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="166,79,201,74,202,79,167,84"/>
+<area shape="rect" id="Node000005" href="$d3/d4f/STLLoader_8cpp.html#aedb3ca3b691f29fb2d3a60286145b590" title=" " alt="" coords="223,104,305,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="167,101,210,107,209,112,166,106"/>
+<area shape="rect" id="Node000007" href="$d3/d4f/STLLoader_8cpp.html#a63d46669c1a2d0e4dfd860e64595857a" title=" " alt="" coords="218,153,310,179"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="136,110,220,145,218,150,134,115"/>
+<area shape="rect" id="Node000003" href="$d3/d4f/STLLoader_8cpp.html#a66a2f6a6ed1624e39cd0454e6727e3a6" title=" " alt="" coords="405,5,529,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="313,15,392,15,392,21,313,21"/>
+<area shape="rect" id="Node000006" href="$d7/de3/classRayTracer_1_1Mesh.html#a22fcc813861fb709fda744f825b7d641" title="Append a triangle to the mesh." alt="" coords="361,128,573,153"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="305,119,348,124,347,129,305,124"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="310,158,351,152,352,158,311,163"/>
+</map>

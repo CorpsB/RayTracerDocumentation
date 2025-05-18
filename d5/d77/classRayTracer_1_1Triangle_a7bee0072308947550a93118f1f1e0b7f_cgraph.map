@@ -1,0 +1,9 @@
+<map id="RayTracer::Triangle::hitsNoCull" name="RayTracer::Triangle::hitsNoCull">
+<area shape="rect" id="Node000001" title="Ray–triangle intersection without back&#45;face culling." alt="" coords="5,47,151,87"/>
+<area shape="rect" id="Node000002" href="$d6/d30/structMath_1_1Vector3D.html#ad9bca728f96bfb94acebaf6cc63109c3" title="Computes the cross product between this and another vector." alt="" coords="202,5,366,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,47,216,31,217,37,152,53"/>
+<area shape="rect" id="Node000003" href="$d6/d30/structMath_1_1Vector3D.html#aa57c357f4be8837461cdd32bd3e5d7dc" title="Computes the dot product between this and another vector." alt="" coords="209,55,359,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="151,65,195,65,195,70,151,70"/>
+<area shape="rect" id="Node000004" href="$d6/d30/structMath_1_1Vector3D.html#a4c208026b6867d4c99afa13ddc3b9278" title="Computes the Euclidean length (norm) of the vector." alt="" coords="199,104,369,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="152,82,217,98,216,103,150,87"/>
+</map>

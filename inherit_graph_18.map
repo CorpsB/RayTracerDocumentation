@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$d8/da7/structRayTracer_1_1Texture.html" title="Abstract interface for UV&#45;mapped colour sources." alt="" coords="5,55,148,80"/>
+<area shape="rect" id="Node000001" href="$d3/d8d/classRayTracer_1_1CheckerTexture.html" title="Procedural checkerboard pattern." alt="" coords="196,5,391,31"/>
+<area shape="poly" id="edge20_Node000000_Node000001" title=" " alt="" coords="146,49,236,28,237,33,147,54"/>
+<area shape="rect" id="Node000002" href="$d1/d6c/classRayTracer_1_1ImageTexture.html" title="Texture backed by an image file." alt="" coords="202,55,385,80"/>
+<area shape="poly" id="edge21_Node000000_Node000002" title=" " alt="" coords="162,65,202,65,202,70,162,70"/>
+<area shape="rect" id="Node000003" href="$de/d40/classRayTracer_1_1NoiseTexture.html" title=" " alt="" coords="204,104,383,129"/>
+<area shape="poly" id="edge22_Node000000_Node000003" title=" " alt="" coords="147,80,237,101,236,107,146,86"/>
+</map>

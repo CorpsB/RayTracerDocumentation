@@ -1,0 +1,7 @@
+<map id="RayTracer::Camera::Camera" name="RayTracer::Camera::Camera">
+<area shape="rect" id="Node000001" title="Build a camera looking from lookfrom towards lookat." alt="" coords="5,23,159,63"/>
+<area shape="rect" id="Node000002" href="$d6/d30/structMath_1_1Vector3D.html#ad9bca728f96bfb94acebaf6cc63109c3" title="Computes the cross product between this and another vector." alt="" coords="210,5,374,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,31,196,27,197,32,159,37"/>
+<area shape="rect" id="Node000003" href="$d6/d30/structMath_1_1Vector3D.html#a4c208026b6867d4c99afa13ddc3b9278" title="Computes the Euclidean length (norm) of the vector." alt="" coords="207,55,377,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,49,193,53,193,59,158,55"/>
+</map>

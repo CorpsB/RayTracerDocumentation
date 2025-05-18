@@ -1,0 +1,18 @@
+<map id="src/rendering/DirectionalLight.cpp" name="src/rendering/DirectionalLight.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="107,5,289,45"/>
+<area shape="rect" id="Node000002" href="$d5/dd2/DirectionalLight_8hpp.html" title="Declares the DirectionalLight class: parallel‐ray source." alt="" coords="119,93,277,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,46,201,79,195,79,195,46"/>
+<area shape="rect" id="Node000003" href="$db/d54/ALight_8hpp.html" title="Abstract base class partially implementing the ILight interface." alt="" coords="111,181,202,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="190,135,172,170,167,168,186,132"/>
+<area shape="rect" id="Node000006" href="$d3/dde/Vector3D_8hpp.html" title="Defines a 3D vector structure with basic arithmetic and transformation operations." alt="" coords="129,401,238,427"/>
+<area shape="poly" id="edge9_Node000002_Node000006" title=" " alt="" coords="206,133,217,181,217,207,217,243,215,280,205,339,193,389,188,387,200,338,210,280,212,243,211,207,211,182,201,134"/>
+<area shape="rect" id="Node000004" href="$da/da7/ILight_8hpp.html" title="Abstract interface for all light sources in the path tracer." alt="" coords="113,255,200,280"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="159,207,159,241,154,241,154,207"/>
+<area shape="rect" id="Node000005" href="$df/df2/Point3D_8hpp.html" title="Defines a 3D point structure used in geometric computations." alt="" coords="5,328,151,353"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="146,282,103,321,99,317,142,278"/>
+<area shape="poly" id="edge8_Node000004_Node000006" title=" " alt="" coords="161,280,181,387,176,388,156,281"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="96,351,156,391,154,396,93,356"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="104,475,167,500"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="85,353,128,461,123,463,80,355"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="178,429,153,465,148,462,173,426"/>
+</map>

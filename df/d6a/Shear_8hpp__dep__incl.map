@@ -1,0 +1,7 @@
+<map id="include/geoTransf/Shear.hpp" name="include/geoTransf/Shear.hpp">
+<area shape="rect" id="Node000001" title="Declares the geometric shear transformation primitive for raytracing scenes." alt="" coords="97,5,301,31"/>
+<area shape="rect" id="Node000002" href="$dd/d61/Shear_8cpp.html" title="Implements a geometric shear transformation applied to primitives." alt="" coords="5,79,180,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,40,112,81,109,76,170,36"/>
+<area shape="rect" id="Node000003" href="$d3/d79/SceneParser_8cpp.html" title="Implements the scene loading system using libconfig for the raytracer engine." alt="" coords="205,79,407,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,36,290,76,287,81,226,40"/>
+</map>

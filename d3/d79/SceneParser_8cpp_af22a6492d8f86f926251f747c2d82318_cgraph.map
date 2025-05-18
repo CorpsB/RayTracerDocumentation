@@ -1,0 +1,7 @@
+<map id="ParseLights" name="ParseLights">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,101,56"/>
+<area shape="rect" id="Node000002" href="$dc/d25/classRayTracer_1_1Scene.html#ad36d89648fcb66900a06ee71b8324bcc" title="Add a light source to the scene." alt="" coords="149,5,347,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,34,137,30,137,35,102,40"/>
+<area shape="rect" id="Node000003" href="$d3/d79/SceneParser_8cpp.html#ab07eea3323845932b0e5c43bec9396d5" title=" " alt="" coords="203,55,293,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="102,47,190,58,189,63,101,52"/>
+</map>

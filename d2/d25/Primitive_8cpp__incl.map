@@ -1,0 +1,32 @@
+<map id="src/core/Primitive.cpp" name="src/core/Primitive.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="151,5,314,31"/>
+<area shape="rect" id="Node000002" href="$de/d81/APrimitive_8hpp.html" title=" " alt="" coords="170,79,295,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,31,235,65,230,65,230,31"/>
+<area shape="rect" id="Node000003" href="$d4/db2/Ray_8hpp.html" title="Defines the Ray structure used for ray&#45;object intersection tests in the raytracer." alt="" coords="140,240,245,265"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="226,120,207,167,197,226,192,225,202,166,221,118"/>
+<area shape="rect" id="Node000004" href="$df/df2/Point3D_8hpp.html" title="Defines a 3D point structure used in geometric computations." alt="" coords="157,313,258,339"/>
+<area shape="poly" id="edge8_Node000002_Node000004" title=" " alt="" coords="170,103,130,109,88,120,50,139,19,168,9,190,12,211,24,231,45,250,101,282,159,306,157,311,98,287,42,254,20,234,7,213,4,189,15,165,47,135,86,115,129,103,169,98"/>
+<area shape="rect" id="Node000005" href="$d3/dde/Vector3D_8hpp.html" title="Defines a 3D vector structure with basic arithmetic and transformation operations." alt="" coords="279,387,389,412"/>
+<area shape="poly" id="edge10_Node000002_Node000005" title=" " alt="" coords="297,112,339,132,357,147,372,165,384,192,390,221,390,250,385,279,369,333,350,375,345,373,364,332,380,278,384,250,385,221,379,194,368,168,353,151,336,137,294,117"/>
+<area shape="rect" id="Node000007" href="$d8/d1e/Vector2D_8hpp.html" title="Defines a 2D vector structure used for texture coordinates or screen&#45;space math operations." alt="" coords="217,167,358,192"/>
+<area shape="poly" id="edge9_Node000002_Node000007" title=" " alt="" coords="248,117,274,154,269,157,244,120"/>
+<area shape="rect" id="Node000008" href="$d0/d70/Material_8hpp.html" title="Declares the physically&#45;based material descriptor used by the renderer." alt="" coords="442,240,613,265"/>
+<area shape="poly" id="edge11_Node000002_Node000008" title=" " alt="" coords="296,116,355,137,415,164,465,196,506,229,503,233,462,201,413,169,353,142,295,121"/>
+<area shape="rect" id="Node000012" href="$d0/d38/IPrimitive_8hpp.html" title="Interface for geometric primitives in the raytracer." alt="" coords="28,167,141,192"/>
+<area shape="poly" id="edge17_Node000002_Node000012" title=" " alt="" coords="198,121,120,162,117,158,196,116"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="198,265,205,299,200,300,192,266"/>
+<area shape="poly" id="edge7_Node000003_Node000005" title=" " alt="" coords="212,263,241,284,272,311,299,343,321,373,317,376,295,346,268,315,238,289,209,268"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="229,336,303,377,300,382,226,341"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="244,460,307,485"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="215,338,267,446,262,449,211,340"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="326,414,295,451,291,448,322,411"/>
+<area shape="poly" id="edge14_Node000008_Node000005" title=" " alt="" coords="509,268,436,315,359,379,355,375,432,311,506,263"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="634,313,693,339"/>
+<area shape="poly" id="edge12_Node000008_Node000009" title=" " alt="" coords="550,263,630,305,628,309,548,268"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="717,313,794,339"/>
+<area shape="poly" id="edge13_Node000008_Node000010" title=" " alt="" coords="565,263,706,307,704,312,563,268"/>
+<area shape="rect" id="Node000011" href="$d0/ddc/Texture_8hpp.html" title="Declares the abstract base class for all 2&#45;D textures. (Solid colour, checkerboard,..." alt="" coords="445,313,609,339"/>
+<area shape="poly" id="edge15_Node000008_Node000011" title=" " alt="" coords="530,266,530,300,525,300,525,266"/>
+<area shape="poly" id="edge16_Node000011_Node000005" title=" " alt="" coords="497,341,379,384,377,379,495,336"/>
+<area shape="poly" id="edge18_Node000012_Node000003" title=" " alt="" coords="103,190,165,230,162,235,101,194"/>
+</map>

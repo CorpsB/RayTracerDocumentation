@@ -1,0 +1,9 @@
+<map id="Utils::Parallel::forLoop" name="Utils::Parallel::forLoop">
+<area shape="rect" id="Node000001" title="Execute a parallel for loop from start to end &#45; 1." alt="" coords="461,5,627,31"/>
+<area shape="rect" id="Node000002" href="$d4/d3d/namespaceUtils.html#a8e063dafa9ed499eae606a8effdb5130" title="Performs the raytracing process and produces the framebuffer." alt="" coords="271,5,413,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="448,21,414,21,414,15,448,15"/>
+<area shape="rect" id="Node000003" href="$dd/dea/classRaytracer.html#a844a5a660abbb9d21608fc170074e0c5" title="Launch the raytracing process." alt="" coords="108,5,223,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="257,21,223,21,223,15,257,15"/>
+<area shape="rect" id="Node000004" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Raimond is a good Raytracer. Logic, it&#39;s Raimond." alt="" coords="5,5,60,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="94,21,60,21,60,15,94,15"/>
+</map>

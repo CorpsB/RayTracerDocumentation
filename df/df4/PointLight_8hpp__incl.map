@@ -1,0 +1,17 @@
+<map id="include/rendering/PointLight.hpp" name="include/rendering/PointLight.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="42,5,274,31"/>
+<area shape="rect" id="Node000002" href="$db/d54/ALight_8hpp.html" title="Abstract base class partially implementing the ILight interface." alt="" coords="113,79,203,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,31,161,65,155,65,155,31"/>
+<area shape="rect" id="Node000004" href="$df/df2/Point3D_8hpp.html" title="Defines a 3D point structure used in geometric computations." alt="" coords="5,225,151,251"/>
+<area shape="poly" id="edge8_Node000001_Node000004" title=" " alt="" coords="144,33,122,53,103,80,91,114,83,149,80,212,74,211,78,149,85,112,98,77,118,50,140,29"/>
+<area shape="rect" id="Node000005" href="$d3/dde/Vector3D_8hpp.html" title="Defines a 3D vector structure with basic arithmetic and transformation operations." alt="" coords="129,299,238,324"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="176,29,199,49,218,78,226,106,229,135,225,193,212,246,197,287,192,285,207,244,220,192,224,135,221,107,213,80,195,53,173,33"/>
+<area shape="rect" id="Node000003" href="$da/da7/ILight_8hpp.html" title="Abstract interface for all light sources in the path tracer." alt="" coords="115,152,201,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="161,104,161,138,155,138,155,104"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="147,179,103,218,99,214,143,175"/>
+<area shape="poly" id="edge7_Node000003_Node000005" title=" " alt="" coords="163,177,182,285,176,285,157,178"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="96,248,156,289,154,293,93,253"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="101,372,164,397"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="85,250,126,358,121,360,80,252"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="177,326,151,362,147,359,173,323"/>
+</map>

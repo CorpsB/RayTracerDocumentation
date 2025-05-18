@@ -1,0 +1,14 @@
+<map id="ParseTangleCube" name="ParseTangleCube">
+<area shape="rect" id="Node000001" title=" " alt="" coords="968,29,1100,55"/>
+<area shape="rect" id="Node000002" href="$d1/df4/namespaceRayTracer.html#a4bbc9c3996d70f6a71cf4d185a4811d6" title="Loads a single scene file (non&#45;recursive)." alt="" coords="759,29,920,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="954,45,920,45,920,39,954,39"/>
+<area shape="rect" id="Node000003" href="$d1/df4/namespaceRayTracer.html#a9aa92d0c88c2ac9be33f27ba71e8ceaa" title="Recursively loads a scene and any referenced sub&#45;scenes from file(s)." alt="" coords="485,29,711,55"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="745,45,711,45,711,39,745,39"/>
+<area shape="poly" id="edge6_Node000003_Node000003" title=" " alt="" coords="641,20,630,11,598,8,572,10,559,15,556,20,563,27,559,31,551,21,555,11,571,5,598,3,632,7,645,16"/>
+<area shape="rect" id="Node000004" href="$d4/d3d/namespaceUtils.html#a763a2a5523575e2175022d2623a77d05" title="Loads a scene from file, or exits on failure." alt="" coords="271,29,437,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="472,45,438,45,438,39,472,39"/>
+<area shape="rect" id="Node000005" href="$dd/dea/classRaytracer.html#a844a5a660abbb9d21608fc170074e0c5" title="Launch the raytracing process." alt="" coords="108,29,223,55"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="257,45,223,45,223,39,257,39"/>
+<area shape="rect" id="Node000006" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Raimond is a good Raytracer. Logic, it&#39;s Raimond." alt="" coords="5,29,60,55"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="94,45,60,45,60,39,94,39"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Skybox::initializeSkybox" name="Skybox::initializeSkybox">
+<area shape="rect" id="Node000001" title="Initialise the global skybox texture." alt="" coords="5,5,185,31"/>
+<area shape="rect" id="Node000002" href="$db/d92/namespaceSkybox.html#af54260a7d5bedcd4e8cd33244f0b385a" title="Load a binary or ASCII PPM file from disk." alt="" coords="233,5,389,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,15,220,15,220,21,186,21"/>
+</map>

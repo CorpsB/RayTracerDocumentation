@@ -1,0 +1,14 @@
+<map id="RayTracer::Cone" name="RayTracer::Cone">
+<area shape="rect" id="Node000001" title="Finite (capped) right‐circular cone primitive." alt="" coords="101,299,227,324"/>
+<area shape="rect" id="Node000002" href="$d9/d3d/classRayTracer_1_1APrimitive.html" title=" " alt="" coords="83,211,245,236"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,250,167,298,161,298,161,250"/>
+<area shape="rect" id="Node000003" href="$da/d13/classRayTracer_1_1IPrimitive.html" title="Pure interface that every geometric primitive must implement." alt="" coords="256,123,413,148"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="301,157,188,213,186,208,298,152"/>
+<area shape="rect" id="Node000004" href="$d1/d48/structRayTracer_1_1Material.html" title="Physically&#45;based material parameters." alt="" coords="83,123,231,148"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="162,162,166,210,160,210,157,162"/>
+<area shape="rect" id="Node000005" href="$d6/d30/structMath_1_1Vector3D.html" title="Represents a 3D vector with real coordinates." alt="" coords="5,5,128,31"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="63,45,57,83,53,132,57,185,63,211,73,235,86,255,104,272,141,296,138,301,101,276,82,258,68,237,58,212,52,186,48,132,51,83,58,44"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="86,40,150,121,146,124,82,43"/>
+<area shape="rect" id="Node000006" href="$db/daa/structMath_1_1Point3D.html" title="Represents a 3D point in Cartesian coordinates." alt="" coords="269,211,384,236"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="294,245,187,301,185,296,292,240"/>
+</map>

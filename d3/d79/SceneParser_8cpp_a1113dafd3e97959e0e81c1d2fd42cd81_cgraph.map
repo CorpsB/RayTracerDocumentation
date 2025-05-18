@@ -1,0 +1,21 @@
+<map id="ParseSierpinski" name="ParseSierpinski">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,105,127,131"/>
+<area shape="rect" id="Node000002" href="$dc/d25/classRayTracer_1_1Scene.html#a596cfa5f2e69ddd8a341f3b10fdcf1b2" title="Add a geometry object to the scene." alt="" coords="175,5,381,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,103,120,71,173,40,192,32,194,37,176,44,123,76,83,107"/>
+<area shape="rect" id="Node000003" href="$d3/d79/SceneParser_8cpp.html#aa782e54e3eee3a001fb792cc4026fb20" title=" " alt="" coords="213,55,343,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="120,103,211,81,212,86,121,108"/>
+<area shape="rect" id="Node000007" href="$d3/d79/SceneParser_8cpp.html#a2f2fded85eeec23ebae4e1c2e9fe96aa" title=" " alt="" coords="439,156,531,181"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="127,117,245,125,382,141,427,150,426,155,381,146,245,130,127,123"/>
+<area shape="rect" id="Node000008" href="$d3/d79/SceneParser_8cpp.html#ab07eea3323845932b0e5c43bec9396d5" title=" " alt="" coords="589,181,679,207"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="82,129,122,162,148,178,176,190,229,204,284,212,394,217,495,212,575,202,576,207,495,217,394,223,283,218,228,209,174,195,145,183,119,166,79,133"/>
+<area shape="rect" id="Node000009" href="$d3/d79/SceneParser_8cpp.html#a8b7e43054abc89463b4746c81fe05f73" title=" " alt="" coords="216,156,340,181"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="121,128,212,150,211,155,120,133"/>
+<area shape="rect" id="Node000004" href="$d3/d79/SceneParser_8cpp.html#ae3517631b63ce9e4328bc51373bf45a3" title=" " alt="" coords="436,5,535,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="331,52,422,30,423,35,333,57"/>
+<area shape="rect" id="Node000005" href="$d3/d79/SceneParser_8cpp.html#ab610c3a763bad5cb0f39e0d2f61a0c84" title=" " alt="" coords="429,55,541,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="344,65,416,65,416,70,344,70"/>
+<area shape="rect" id="Node000006" href="$d3/d79/SceneParser_8cpp.html#a16ef5180e27cc191fa8b0948fef6446f" title=" " alt="" coords="438,104,533,129"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="333,77,425,100,424,105,331,83"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="532,174,576,182,575,187,531,179"/>
+<area shape="poly" id="edge10_Node000009_Node000007" title=" " alt="" coords="340,166,426,166,426,171,340,171"/>
+</map>

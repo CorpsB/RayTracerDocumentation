@@ -1,0 +1,15 @@
+<map id="RayTracer::rand01" name="RayTracer::rand01">
+<area shape="rect" id="Node000001" title="Generate a single uniform random number in [0,1)." alt="" coords="912,31,1051,56"/>
+<area shape="rect" id="Node000002" href="$d1/df4/namespaceRayTracer.html#ab7c27bbad4b80e8966900494064dbb20" title="Cosine&#45;weighted hemisphere sampling around a shading normal." alt="" coords="643,5,864,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="898,37,864,33,865,28,899,32"/>
+<area shape="rect" id="Node000003" href="$d1/df4/namespaceRayTracer.html#ab1ca8a59872e03b73fafc26443c5c1df" title="Recursive path&#45;tracing integrator." alt="" coords="461,31,595,56"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="898,46,595,46,595,41,898,41"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="630,35,595,39,595,33,629,29"/>
+<area shape="poly" id="edge6_Node000003_Node000003" title=" " alt="" coords="561,20,551,12,528,9,509,11,498,16,496,22,502,29,497,32,491,22,494,13,507,6,528,4,553,8,564,16"/>
+<area shape="rect" id="Node000004" href="$d4/d3d/namespaceUtils.html#a8e063dafa9ed499eae606a8effdb5130" title="Performs the raytracing process and produces the framebuffer." alt="" coords="271,31,413,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="447,46,414,46,414,41,447,41"/>
+<area shape="rect" id="Node000005" href="$dd/dea/classRaytracer.html#a844a5a660abbb9d21608fc170074e0c5" title="Launch the raytracing process." alt="" coords="108,31,223,56"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="257,46,223,46,223,41,257,41"/>
+<area shape="rect" id="Node000006" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Raimond is a good Raytracer. Logic, it&#39;s Raimond." alt="" coords="5,31,60,56"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="94,46,60,46,60,41,94,41"/>
+</map>

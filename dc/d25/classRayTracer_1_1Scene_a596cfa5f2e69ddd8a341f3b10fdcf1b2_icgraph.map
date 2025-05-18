@@ -1,0 +1,43 @@
+<map id="RayTracer::Scene::addObject" name="RayTracer::Scene::addObject">
+<area shape="rect" id="Node000001" title="Add a geometry object to the scene." alt="" coords="1148,228,1355,253"/>
+<area shape="rect" id="Node000002" href="$d3/d79/SceneParser_8cpp.html#ad262901d3d20b2d0a15d937abb911dbd" title=" " alt="" coords="986,5,1082,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1235,217,1214,180,1183,133,1144,86,1098,44,1079,33,1081,28,1102,40,1148,82,1187,130,1218,177,1240,215"/>
+<area shape="rect" id="Node000008" href="$d3/d79/SceneParser_8cpp.html#acadf69d0ff9684ba689927979b304f6a" title=" " alt="" coords="985,55,1083,80"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="1230,219,1175,157,1138,123,1099,94,1076,82,1079,78,1101,89,1142,119,1179,153,1234,215"/>
+<area shape="rect" id="Node000009" href="$d3/d79/SceneParser_8cpp.html#a58b4651708d2a5da5625f2412bd84bd7" title=" " alt="" coords="975,104,1093,129"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="1221,222,1166,183,1099,143,1073,132,1075,127,1101,138,1169,178,1224,218"/>
+<area shape="rect" id="Node000010" href="$d3/d79/SceneParser_8cpp.html#a1122aa28b0a7f73c44adaf6dca1d5750" title=" " alt="" coords="981,153,1087,179"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="1200,226,1071,181,1073,176,1201,221"/>
+<area shape="rect" id="Node000011" href="$d3/d79/SceneParser_8cpp.html#a26f05fcddd9c159c09c9cedc7bdf844a" title=" " alt="" coords="981,203,1087,228"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="1134,230,1088,224,1088,219,1134,224"/>
+<area shape="rect" id="Node000012" href="$d3/d79/SceneParser_8cpp.html#a9d50142946b8423759ecbfa17c7edc79" title=" " alt="" coords="984,252,1084,277"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="1135,256,1085,262,1084,257,1134,251"/>
+<area shape="rect" id="Node000013" href="$d3/d79/SceneParser_8cpp.html#a1113dafd3e97959e0e81c1d2fd42cd81" title=" " alt="" coords="973,301,1095,327"/>
+<area shape="poly" id="edge18_Node000001_Node000013" title=" " alt="" coords="1200,260,1074,304,1072,299,1199,255"/>
+<area shape="rect" id="Node000014" href="$d3/d79/SceneParser_8cpp.html#aa379bf06dc8b31c936030d2fc900e73c" title=" " alt="" coords="979,351,1089,376"/>
+<area shape="poly" id="edge20_Node000001_Node000014" title=" " alt="" coords="1223,264,1168,301,1101,340,1073,353,1070,348,1099,336,1165,297,1220,259"/>
+<area shape="rect" id="Node000015" href="$d3/d79/SceneParser_8cpp.html#abe09300f6764206d0215ca7b12403972" title=" " alt="" coords="968,400,1100,425"/>
+<area shape="poly" id="edge22_Node000001_Node000015" title=" " alt="" coords="1234,266,1178,326,1141,360,1101,390,1076,402,1074,398,1099,385,1138,356,1174,322,1230,262"/>
+<area shape="rect" id="Node000016" href="$d3/d79/SceneParser_8cpp.html#aa2d4ee6129dea0eeb1ad8100b5026239" title=" " alt="" coords="989,449,1079,475"/>
+<area shape="poly" id="edge24_Node000001_Node000016" title=" " alt="" coords="1239,267,1217,304,1186,350,1147,397,1102,439,1079,452,1076,447,1098,435,1143,394,1182,347,1213,301,1235,264"/>
+<area shape="rect" id="Node000003" href="$d1/df4/namespaceRayTracer.html#a4bbc9c3996d70f6a71cf4d185a4811d6" title="Loads a single scene file (non&#45;recursive)." alt="" coords="759,228,920,253"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="976,39,970,44,925,90,889,143,863,193,848,229,843,227,859,191,885,141,921,87,966,40,973,35"/>
+<area shape="rect" id="Node000004" href="$d1/df4/namespaceRayTracer.html#a9aa92d0c88c2ac9be33f27ba71e8ceaa" title="Recursively loads a scene and any referenced sub&#45;scenes from file(s)." alt="" coords="485,228,711,253"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="745,243,711,243,711,238,745,238"/>
+<area shape="poly" id="edge7_Node000004_Node000004" title=" " alt="" coords="641,219,630,210,598,207,572,209,559,214,556,219,563,226,559,230,551,220,555,210,571,204,598,201,632,205,645,215"/>
+<area shape="rect" id="Node000005" href="$d4/d3d/namespaceUtils.html#a763a2a5523575e2175022d2623a77d05" title="Loads a scene from file, or exits on failure." alt="" coords="271,228,437,253"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="472,243,438,243,438,238,472,238"/>
+<area shape="rect" id="Node000006" href="$dd/dea/classRaytracer.html#a844a5a660abbb9d21608fc170074e0c5" title="Launch the raytracing process." alt="" coords="108,228,223,253"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="257,243,223,243,223,238,257,238"/>
+<area shape="rect" id="Node000007" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Raimond is a good Raytracer. Logic, it&#39;s Raimond." alt="" coords="5,228,60,253"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="94,243,60,243,60,238,94,238"/>
+<area shape="poly" id="edge9_Node000008_Node000003" title=" " alt="" coords="978,88,970,93,930,127,896,165,850,230,846,226,892,162,926,123,966,89,975,84"/>
+<area shape="poly" id="edge11_Node000009_Node000003" title=" " alt="" coords="981,137,969,143,904,188,856,230,852,226,901,184,967,138,979,132"/>
+<area shape="poly" id="edge13_Node000010_Node000003" title=" " alt="" coords="986,186,969,192,873,230,871,225,967,188,984,181"/>
+<area shape="poly" id="edge15_Node000011_Node000003" title=" " alt="" coords="967,227,920,233,920,228,966,221"/>
+<area shape="poly" id="edge17_Node000012_Node000003" title=" " alt="" coords="970,259,920,253,920,248,970,254"/>
+<area shape="poly" id="edge19_Node000013_Node000003" title=" " alt="" coords="986,299,873,256,875,251,988,294"/>
+<area shape="poly" id="edge21_Node000014_Node000003" title=" " alt="" coords="981,348,967,340,901,296,853,256,856,251,905,292,969,336,984,343"/>
+<area shape="poly" id="edge23_Node000015_Node000003" title=" " alt="" coords="978,397,966,389,927,356,892,318,846,255,851,252,897,315,931,352,970,385,981,392"/>
+<area shape="poly" id="edge25_Node000016_Node000003" title=" " alt="" coords="975,445,966,439,921,392,885,340,859,291,843,255,848,253,864,288,890,337,925,389,970,435,978,441"/>
+</map>

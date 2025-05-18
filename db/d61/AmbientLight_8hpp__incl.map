@@ -1,0 +1,15 @@
+<map id="include/rendering/AmbientLight.hpp" name="include/rendering/AmbientLight.hpp">
+<area shape="rect" id="Node000001" title="Declares the AmbientLight class: uniform ambient illumination." alt="" coords="5,5,200,45"/>
+<area shape="rect" id="Node000002" href="$db/d54/ALight_8hpp.html" title="Abstract base class partially implementing the ILight interface." alt="" coords="57,93,148,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,46,105,79,100,79,100,46"/>
+<area shape="rect" id="Node000003" href="$da/da7/ILight_8hpp.html" title="Abstract interface for all light sources in the path tracer." alt="" coords="59,167,146,192"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,119,105,153,100,153,100,119"/>
+<area shape="rect" id="Node000004" href="$df/df2/Point3D_8hpp.html" title="Defines a 3D point structure used in geometric computations." alt="" coords="86,240,231,265"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="114,191,143,228,139,231,110,194"/>
+<area shape="rect" id="Node000005" href="$d3/dde/Vector3D_8hpp.html" title="Defines a 3D vector structure with basic arithmetic and transformation operations." alt="" coords="12,313,121,339"/>
+<area shape="poly" id="edge7_Node000003_Node000005" title=" " alt="" coords="98,194,86,215,76,241,71,271,69,299,64,299,65,270,71,239,81,213,93,191"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="146,267,94,307,91,303,142,263"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="81,387,143,412"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="158,266,136,339,124,375,119,373,131,338,153,265"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="76,338,100,374,95,377,72,340"/>
+</map>

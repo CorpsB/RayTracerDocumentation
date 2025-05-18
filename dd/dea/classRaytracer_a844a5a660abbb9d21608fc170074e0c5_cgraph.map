@@ -1,0 +1,108 @@
+<map id="Raytracer::run" name="Raytracer::run">
+<area shape="rect" id="Node000001" title="Launch the raytracing process." alt="" coords="5,861,120,887"/>
+<area shape="rect" id="Node000002" href="$d4/d3d/namespaceUtils.html#a6b68818bad484580792ffda049766b6e" title="Builds a BVH from a list of smart pointers to primitives." alt="" coords="205,540,325,565"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,861,67,808,82,731,95,689,113,647,136,608,166,575,190,560,193,565,170,579,141,612,118,650,100,691,87,732,72,809,67,861"/>
+<area shape="rect" id="Node000005" href="$d4/d3d/namespaceUtils.html#adb433477d0f08da1b223827ed05eef66" title="Validates the command&#45;line argument count." alt="" coords="195,589,334,615"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="63,860,70,815,88,751,101,717,119,683,140,651,166,624,181,614,184,619,170,628,144,655,123,686,106,719,93,753,76,816,68,861"/>
+<area shape="rect" id="Node000006" href="$d4/d3d/namespaceUtils.html#a23409e98a4976f47f3825ff7a9d9c8dc" title="Creates a camera from render parameters." alt="" coords="189,639,341,664"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="64,860,75,823,94,772,124,719,144,694,166,673,175,667,178,672,170,677,148,698,129,722,99,775,80,825,69,862"/>
+<area shape="rect" id="Node000007" href="$d4/d3d/namespaceUtils.html#a704495a4dfb63d8716ffe636ddbb7b68" title="Applies a basic denoising algorithm to the framebuffer." alt="" coords="209,688,320,713"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="67,860,101,794,130,755,167,722,195,709,197,714,169,727,134,759,106,797,71,863"/>
+<area shape="rect" id="Node000008" href="$d4/d3d/namespaceUtils.html#abdca61c5ca7a026eae7f8a2bc2b2dd2b" title="Extracts render parameters from command&#45;line arguments." alt="" coords="177,737,352,763"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="72,859,110,816,137,792,167,772,181,765,183,770,169,776,140,796,114,820,76,863"/>
+<area shape="rect" id="Node000009" href="$d4/d3d/namespaceUtils.html#aad53042e10cdf4f0db031913ac1f5a7f" title="Check if debug mode is enabled through CLI args." alt="" coords="168,787,361,812"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="85,859,123,840,167,821,191,813,192,818,169,826,125,845,88,864"/>
+<area shape="rect" id="Node000010" href="$d4/d3d/namespaceUtils.html#a763a2a5523575e2175022d2623a77d05" title="Loads a scene from file, or exits on failure." alt="" coords="181,836,348,861"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="120,864,167,858,168,863,120,870"/>
+<area shape="rect" id="Node000049" href="$d4/d3d/namespaceUtils.html#a46b2b4094ba94a6a8c99e8230f6e72ab" title="Determines whether to display a progress bar." alt="" coords="189,935,341,960"/>
+<area shape="poly" id="edge28_Node000001_Node000049" title=" " alt="" coords="89,884,169,920,196,928,195,933,167,924,87,889"/>
+<area shape="rect" id="Node000050" href="$d4/d3d/namespaceUtils.html#a90e2950a16dc3e304315292e607d461d" title="Parses thread count from CLI arguments." alt="" coords="191,984,339,1009"/>
+<area shape="poly" id="edge29_Node000001_Node000050" title=" " alt="" coords="76,885,114,927,140,950,169,969,187,977,184,982,167,974,137,954,110,930,72,889"/>
+<area shape="rect" id="Node000051" href="$df/db1/namespaceViz.html#a8d15e0c2d169bd794380b0e720faabf2" title=" " alt="" coords="193,1057,336,1083"/>
+<area shape="poly" id="edge30_Node000001_Node000051" title=" " alt="" coords="73,886,109,947,137,985,170,1019,193,1036,219,1049,216,1054,190,1040,166,1023,133,988,105,950,68,888"/>
+<area shape="rect" id="Node000052" href="$dc/d91/namespacePostFX.html#a97699543bec890d8d5ef02238a9e914c" title="Execute the full post&#45;processing pipeline on a frame&#45;buffer." alt="" coords="188,1107,341,1132"/>
+<area shape="poly" id="edge32_Node000001_Node000052" title=" " alt="" coords="69,886,78,926,97,982,126,1041,146,1069,170,1092,178,1098,175,1102,166,1096,142,1072,122,1044,92,984,73,928,64,887"/>
+<area shape="rect" id="Node000055" href="$d4/d3d/namespaceUtils.html#a8e063dafa9ed499eae606a8effdb5130" title="Performs the raytracing process and produces the framebuffer." alt="" coords="193,885,336,911"/>
+<area shape="poly" id="edge35_Node000001_Node000055" title=" " alt="" coords="120,878,180,885,179,891,120,883"/>
+<area shape="rect" id="Node000071" href="$df/db1/namespaceViz.html#a888cc4fc8971d9c8c1c3c183f6163562" title=" " alt="" coords="181,1180,349,1205"/>
+<area shape="poly" id="edge54_Node000001_Node000071" title=" " alt="" coords="68,886,77,933,95,1000,125,1074,146,1110,170,1142,190,1159,213,1172,211,1177,187,1163,166,1145,141,1113,120,1077,90,1002,72,934,63,887"/>
+<area shape="rect" id="Node000072" href="$d4/d3d/namespaceUtils.html#a93b03e73158568f2d6c223f2052afb14" title="Writes the framebuffer to a .ppm image file." alt="" coords="204,1229,325,1255"/>
+<area shape="poly" id="edge56_Node000001_Node000072" title=" " alt="" coords="66,887,69,946,81,1035,94,1084,112,1132,137,1177,170,1216,192,1230,190,1235,166,1220,133,1180,107,1135,89,1086,76,1036,63,947,61,887"/>
+<area shape="rect" id="Node000003" href="$d1/df4/namespaceRayTracer.html#abe4ebec0fced68876c86cde562a43377" title=" " alt="" coords="445,565,599,591"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="325,556,431,566,431,572,325,561"/>
+<area shape="rect" id="Node000004" href="$d4/d3d/namespaceUtils.html#a4ba3286c32e42accbb64c604ca149a6d" title="Extracts raw pointers to primitives from shared_ptr objects." alt="" coords="437,516,607,541"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="325,544,424,535,424,540,325,550"/>
+<area shape="rect" id="Node000011" href="$d1/df4/namespaceRayTracer.html#a9aa92d0c88c2ac9be33f27ba71e8ceaa" title="Recursively loads a scene and any referenced sub&#45;scenes from file(s)." alt="" coords="409,688,635,713"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="327,833,360,821,400,798,437,771,496,721,500,725,440,776,403,803,362,826,329,838"/>
+<area shape="poly" id="edge27_Node000011_Node000011" title=" " alt="" coords="481,690,472,680,476,670,493,663,522,661,558,665,568,670,572,676,568,679,565,674,557,670,522,667,494,669,480,674,477,679,484,686"/>
+<area shape="rect" id="Node000012" href="$d1/df4/namespaceRayTracer.html#a4bbc9c3996d70f6a71cf4d185a4811d6" title="Loads a single scene file (non&#45;recursive)." alt="" coords="713,351,874,376"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="539,686,583,649,633,600,678,543,718,484,776,387,781,390,723,487,682,546,637,604,587,653,542,690"/>
+<area shape="rect" id="Node000013" href="$db/d92/namespaceSkybox.html#a7be84c4dd5e95b3b8d9cd74c02eef8bd" title="Initialise the global skybox texture." alt="" coords="952,153,1132,179"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="800,349,822,317,856,273,900,227,951,188,963,181,965,186,953,192,903,231,860,276,827,320,805,352"/>
+<area shape="rect" id="Node000015" href="$d3/d79/SceneParser_8cpp.html#ad262901d3d20b2d0a15d937abb911dbd" title=" " alt="" coords="994,203,1090,228"/>
+<area shape="poly" id="edge13_Node000012_Node000015" title=" " alt="" coords="805,348,865,295,906,264,951,237,980,225,982,230,953,242,909,268,868,299,809,352"/>
+<area shape="rect" id="Node000024" href="$d3/d79/SceneParser_8cpp.html#a719f34dae6ee5f4594209dea344bdee0" title=" " alt="" coords="988,647,1096,672"/>
+<area shape="poly" id="edge14_Node000012_Node000024" title=" " alt="" coords="801,376,817,424,848,493,893,568,921,602,954,632,976,644,974,649,950,636,918,606,889,571,843,496,812,426,796,377"/>
+<area shape="rect" id="Node000030" href="$d3/d79/SceneParser_8cpp.html#acadf69d0ff9684ba689927979b304f6a" title=" " alt="" coords="993,252,1091,277"/>
+<area shape="poly" id="edge16_Node000012_Node000030" title=" " alt="" coords="817,348,877,318,951,286,980,277,981,282,953,291,879,323,819,353"/>
+<area shape="rect" id="Node000031" href="$d3/d79/SceneParser_8cpp.html#a58b4651708d2a5da5625f2412bd84bd7" title=" " alt="" coords="983,301,1101,327"/>
+<area shape="poly" id="edge17_Node000012_Node000031" title=" " alt="" coords="857,348,969,326,970,331,859,353"/>
+<area shape="rect" id="Node000032" href="$d3/d79/SceneParser_8cpp.html#af22a6492d8f86f926251f747c2d82318" title=" " alt="" coords="994,351,1090,376"/>
+<area shape="poly" id="edge18_Node000012_Node000032" title=" " alt="" coords="874,361,980,361,980,366,874,366"/>
+<area shape="rect" id="Node000034" href="$d3/d79/SceneParser_8cpp.html#a17fe6719bd49ea3c89cdbe743f9fbe49" title=" " alt="" coords="975,400,1109,425"/>
+<area shape="poly" id="edge19_Node000012_Node000034" title=" " alt="" coords="859,373,964,395,963,400,857,379"/>
+<area shape="rect" id="Node000035" href="$d3/d79/SceneParser_8cpp.html#a1122aa28b0a7f73c44adaf6dca1d5750" title=" " alt="" coords="989,449,1095,475"/>
+<area shape="poly" id="edge20_Node000012_Node000035" title=" " alt="" coords="820,374,880,403,953,434,979,443,977,448,951,439,878,408,818,379"/>
+<area shape="rect" id="Node000036" href="$d3/d79/SceneParser_8cpp.html#a26f05fcddd9c159c09c9cedc7bdf844a" title=" " alt="" coords="989,499,1095,524"/>
+<area shape="poly" id="edge21_Node000012_Node000036" title=" " alt="" coords="809,374,868,427,909,457,953,484,977,493,975,498,951,488,906,462,865,431,806,378"/>
+<area shape="rect" id="Node000044" href="$d3/d79/SceneParser_8cpp.html#a9d50142946b8423759ecbfa17c7edc79" title=" " alt="" coords="992,548,1092,573"/>
+<area shape="poly" id="edge22_Node000012_Node000044" title=" " alt="" coords="805,375,827,407,861,450,904,495,953,533,980,545,978,550,951,538,900,499,857,453,823,410,801,378"/>
+<area shape="rect" id="Node000045" href="$d3/d79/SceneParser_8cpp.html#a1113dafd3e97959e0e81c1d2fd42cd81" title=" " alt="" coords="981,597,1103,623"/>
+<area shape="poly" id="edge23_Node000012_Node000045" title=" " alt="" coords="802,375,822,415,854,472,898,531,925,559,954,582,969,592,967,596,950,587,921,563,894,535,850,475,817,418,798,377"/>
+<area shape="rect" id="Node000046" href="$d3/d79/SceneParser_8cpp.html#aa379bf06dc8b31c936030d2fc900e73c" title=" " alt="" coords="987,5,1097,31"/>
+<area shape="poly" id="edge24_Node000012_Node000046" title=" " alt="" coords="794,350,808,293,836,210,857,164,883,118,914,76,950,40,973,27,976,31,954,44,918,80,887,121,862,166,841,212,813,295,800,351"/>
+<area shape="rect" id="Node000047" href="$d3/d79/SceneParser_8cpp.html#abe09300f6764206d0215ca7b12403972" title=" " alt="" coords="976,55,1108,80"/>
+<area shape="poly" id="edge25_Node000012_Node000047" title=" " alt="" coords="796,349,812,300,843,230,864,192,888,154,917,119,950,89,962,82,965,86,954,93,921,123,893,157,868,194,848,232,817,302,801,351"/>
+<area shape="rect" id="Node000048" href="$d3/d79/SceneParser_8cpp.html#aa2d4ee6129dea0eeb1ad8100b5026239" title=" " alt="" coords="997,104,1087,129"/>
+<area shape="poly" id="edge26_Node000012_Node000048" title=" " alt="" coords="798,349,817,308,849,251,894,190,921,163,951,138,982,123,985,128,953,143,924,166,898,194,854,254,821,311,802,352"/>
+<area shape="rect" id="Node000025" href="$d6/d30/structMath_1_1Vector3D.html#ad9bca728f96bfb94acebaf6cc63109c3" title="Computes the cross product between this and another vector." alt="" coords="1180,697,1344,723"/>
+<area shape="poly" id="edge15_Node000024_Node000025" title=" " alt="" coords="1097,669,1193,692,1192,697,1096,674"/>
+<area shape="poly" id="edge31_Node000051_Node000051" title=" " alt="" coords="232,1059,225,1049,228,1039,242,1033,265,1031,293,1034,304,1044,300,1048,290,1039,265,1036,243,1038,232,1043,230,1048,236,1056"/>
+<area shape="rect" id="Node000053" href="$dc/d91/namespacePostFX.html#a0118f43380559f09e9e80c2f73fd116a" title="Apply a simple filmic tone&#45;mapping curve." alt="" coords="456,1132,588,1157"/>
+<area shape="poly" id="edge33_Node000052_Node000053" title=" " alt="" coords="342,1124,443,1134,442,1140,341,1129"/>
+<area shape="rect" id="Node000054" href="$dc/d91/namespacePostFX.html#a9ac2e9d3b3df1cf6cc65ea14a349f828" title="Radial vignette fall&#45;off factor for pixel *(i,j)*." alt="" coords="438,1083,606,1108"/>
+<area shape="poly" id="edge34_Node000052_Node000054" title=" " alt="" coords="341,1110,424,1102,425,1107,342,1115"/>
+<area shape="rect" id="Node000056" href="$d9/d83/namespaceUtils_1_1Parallel.html#ab44c0e5cb1b952802aa37c4f94242ab6" title="Execute a parallel for loop from start to end &#45; 1." alt="" coords="439,935,605,960"/>
+<area shape="poly" id="edge36_Node000055_Node000056" title=" " alt="" coords="332,908,442,929,441,935,331,913"/>
+<area shape="rect" id="Node000057" href="$d4/d3d/namespaceUtils.html#aaf2c4e5a59ec45284cfcdf257a9218f1" title="Prints a terminal progress bar for rendering." alt="" coords="438,984,606,1009"/>
+<area shape="poly" id="edge37_Node000055_Node000057" title=" " alt="" coords="337,908,363,920,378,932,387,945,396,958,411,969,427,977,425,982,408,974,392,961,383,948,374,936,360,924,335,913"/>
+<area shape="rect" id="Node000058" href="$dc/dd2/classRayTracer_1_1Camera.html#a6e15aa9e80304dd752366647553f2f5f" title="Generate a primary ray through screen coordinates *(s,t)*." alt="" coords="435,812,609,837"/>
+<area shape="poly" id="edge38_Node000055_Node000058" title=" " alt="" coords="321,883,360,870,384,858,408,846,435,838,436,843,410,851,386,863,362,875,322,888"/>
+<area shape="rect" id="Node000059" href="$d1/df4/namespaceRayTracer.html#ab1ca8a59872e03b73fafc26443c5c1df" title="Recursive path&#45;tracing integrator." alt="" coords="455,885,589,911"/>
+<area shape="poly" id="edge39_Node000055_Node000059" title=" " alt="" coords="336,895,441,895,441,901,336,901"/>
+<area shape="poly" id="edge51_Node000059_Node000059" title=" " alt="" coords="481,887,472,877,476,867,493,861,522,859,558,863,568,867,572,873,568,876,565,871,557,868,522,864,494,866,480,871,477,876,484,883"/>
+<area shape="rect" id="Node000060" href="$d0/d82/classRayTracer_1_1ILight.html#a47469714a2ccb5287845a4f059f224cf" title="Compute the incoming light direction at a surface point." alt="" coords="724,821,863,861"/>
+<area shape="poly" id="edge40_Node000059_Node000060" title=" " alt="" coords="582,883,709,856,711,861,584,888"/>
+<area shape="rect" id="Node000061" href="$d6/d30/structMath_1_1Vector3D.html#aa57c357f4be8837461cdd32bd3e5d7dc" title="Computes the dot product between this and another vector." alt="" coords="967,696,1117,721"/>
+<area shape="poly" id="edge41_Node000059_Node000061" title=" " alt="" coords="573,883,605,868,633,847,645,829,651,811,653,775,656,739,665,722,681,706,702,697,729,690,799,685,878,688,953,695,952,700,877,693,799,691,730,696,703,702,684,711,669,725,661,741,658,775,656,812,650,831,637,850,608,873,575,888"/>
+<area shape="rect" id="Node000062" href="$dc/d25/classRayTracer_1_1Scene.html#adb32144e3e23e2bb9a6e6d702f6d52e7" title="Intersect a ray with all objects in the scene." alt="" coords="714,885,873,911"/>
+<area shape="poly" id="edge42_Node000059_Node000062" title=" " alt="" coords="589,895,700,895,700,901,589,901"/>
+<area shape="rect" id="Node000063" href="$d0/d82/classRayTracer_1_1ILight.html#a38eab6f380194227f9c1085260092315" title="Get the scalar intensity (power) of the light." alt="" coords="724,935,863,975"/>
+<area shape="poly" id="edge43_Node000059_Node000063" title=" " alt="" coords="584,908,711,935,709,940,582,913"/>
+<area shape="rect" id="Node000064" href="$d6/d30/structMath_1_1Vector3D.html#a598b2b7fe5b2b34c111ee68015080334" title="Returns a normalized (unit&#45;length) copy of the vector." alt="" coords="692,1000,895,1025"/>
+<area shape="poly" id="edge44_Node000059_Node000064" title=" " alt="" coords="590,901,614,909,636,920,653,936,661,953,669,970,684,985,697,992,694,997,681,989,665,973,656,956,649,939,633,924,612,914,588,907"/>
+<area shape="rect" id="Node000065" href="$d0/d82/classRayTracer_1_1ILight.html#ab7ee56a002dd2f9adbee38aaee4b1538" title="Retrieve the light’s world&#45;space position if applicable." alt="" coords="724,1050,863,1090"/>
+<area shape="poly" id="edge45_Node000059_Node000065" title=" " alt="" coords="589,899,614,907,636,920,649,934,657,949,662,978,666,1007,673,1021,684,1035,712,1052,709,1057,681,1039,668,1024,661,1009,657,979,652,950,645,937,633,924,612,911,588,904"/>
+<area shape="rect" id="Node000066" href="$d1/df4/namespaceRayTracer.html#ae95ed0335c1ba084545f21d7f61c8942" title="Generate a single uniform random number in [0,1)." alt="" coords="973,943,1111,968"/>
+<area shape="poly" id="edge46_Node000059_Node000066" title=" " alt="" coords="590,898,615,906,636,920,654,943,661,967,662,991,659,1015,657,1038,659,1060,666,1081,684,1100,712,1118,738,1130,764,1136,788,1137,842,1124,903,1100,943,1075,977,1043,1004,1009,1024,979,1029,982,1009,1012,981,1047,946,1080,905,1104,843,1130,789,1142,763,1141,737,1135,710,1123,681,1104,662,1084,653,1061,652,1038,654,1014,656,991,656,968,649,945,633,924,612,910,588,903"/>
+<area shape="rect" id="Node000067" href="$d1/df4/namespaceRayTracer.html#ab7c27bbad4b80e8966900494064dbb20" title="Cosine&#45;weighted hemisphere sampling around a shading normal." alt="" coords="683,721,904,747"/>
+<area shape="poly" id="edge47_Node000059_Node000067" title=" " alt="" coords="569,883,602,868,633,847,649,824,655,801,662,778,681,756,688,751,691,756,684,760,667,781,660,803,654,826,637,851,605,873,571,888"/>
+<area shape="rect" id="Node000068" href="$db/d92/namespaceSkybox.html#a4a9c986d1ee3f28f9b2e419b743f5ebf" title="Procedural horizon&#45;to&#45;zenith gradient." alt="" coords="716,1165,871,1191"/>
+<area shape="poly" id="edge52_Node000059_Node000068" title=" " alt="" coords="590,897,615,905,637,920,657,948,665,976,666,1005,662,1033,659,1062,659,1089,666,1117,685,1144,705,1159,702,1164,681,1148,661,1119,653,1090,653,1061,657,1033,661,1005,660,977,652,950,633,924,612,910,588,902"/>
+<area shape="rect" id="Node000070" href="$d0/d82/classRayTracer_1_1ILight.html#a4aaa93d94da7fc685a2a98a57310b3e5" title="Get the type of this light." alt="" coords="710,771,877,796"/>
+<area shape="poly" id="edge53_Node000059_Node000070" title=" " alt="" coords="558,883,595,867,633,846,656,826,666,816,681,806,702,798,704,803,684,811,670,820,660,830,636,851,597,872,560,888"/>
+<area shape="poly" id="edge48_Node000067_Node000025" title=" " alt="" coords="904,736,1014,736,1132,730,1187,723,1188,728,1132,735,1015,741,904,741"/>
+<area shape="poly" id="edge49_Node000067_Node000061" title=" " alt="" coords="904,720,953,715,953,720,905,725"/>
+<area shape="poly" id="edge50_Node000067_Node000066" title=" " alt="" coords="883,744,905,756,950,795,987,842,1014,889,1033,928,1028,931,1009,892,982,845,946,799,903,760,881,749"/>
+<area shape="poly" id="edge55_Node000071_Node000071" title=" " alt="" coords="232,1181,225,1172,228,1162,242,1156,265,1153,293,1157,304,1166,300,1170,290,1162,265,1159,243,1161,232,1165,230,1171,236,1178"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="RayTracer::Sphere::hits" name="RayTracer::Sphere::hits">
+<area shape="rect" id="Node000001" title="Ray&#45;sphere intersection test." alt="" coords="5,5,176,31"/>
+<area shape="rect" id="Node000002" href="$d6/d30/structMath_1_1Vector3D.html#aa57c357f4be8837461cdd32bd3e5d7dc" title="Computes the dot product between this and another vector." alt="" coords="224,5,375,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,15,210,15,210,21,176,21"/>
+</map>

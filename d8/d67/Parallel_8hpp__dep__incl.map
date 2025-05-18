@@ -1,0 +1,7 @@
+<map id="include/core/Parallel.hpp" name="include/core/Parallel.hpp">
+<area shape="rect" id="Node000001" title="Utilities for parallel computation using OpenMP." alt="" coords="75,5,256,31"/>
+<area shape="rect" id="Node000002" href="$d0/dde/Parallel_8cpp.html" title="Implements utilities for parallel execution using OpenMP." alt="" coords="5,79,157,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,42,97,80,93,76,140,38"/>
+<area shape="rect" id="Node000003" href="$df/d0c/Utils_8cpp.html" title="Implements utility functions for argument parsing, rendering, post&#45;processing, and denoising in the r..." alt="" coords="182,79,317,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,38,237,76,234,80,188,42"/>
+</map>

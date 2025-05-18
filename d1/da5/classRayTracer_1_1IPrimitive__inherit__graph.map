@@ -1,0 +1,33 @@
+<map id="RayTracer::IPrimitive" name="RayTracer::IPrimitive">
+<area shape="rect" id="Node000001" title="Pure interface that every geometric primitive must implement." alt="" coords="5,327,163,352"/>
+<area shape="rect" id="Node000002" href="$d9/d3d/classRayTracer_1_1APrimitive.html" title=" " alt="" coords="211,327,373,352"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,337,211,337,211,342,177,342"/>
+<area shape="rect" id="Node000003" href="$d0/de5/classRayTracer_1_1Box.html" title="Axis&#45;aligned box primitive with ray intersection." alt="" coords="447,5,566,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="294,312,306,256,329,182,345,144,366,106,390,71,420,40,446,25,449,30,423,44,394,74,370,109,350,146,334,184,311,257,300,313"/>
+<area shape="rect" id="Node000004" href="$db/d22/classRayTracer_1_1Cone.html" title="Finite (capped) right‐circular cone primitive." alt="" coords="443,55,570,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="297,312,311,265,336,204,371,142,394,114,420,89,442,76,445,81,423,93,398,118,376,145,340,207,316,266,302,314"/>
+<area shape="rect" id="Node000005" href="$d8/d07/classRayTracer_1_1Cylinder.html" title="Finite right&#45;circular cylinder primitive." alt="" coords="433,104,581,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="300,313,317,274,343,227,377,179,420,139,440,127,443,132,423,143,381,183,348,230,322,276,305,315"/>
+<area shape="rect" id="Node000006" href="$d8/d74/classRayTracer_1_1Matrix.html" title="Applies a 3×3 linear transformation to a primitive." alt="" coords="439,153,575,179"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="306,313,351,250,383,217,420,188,443,176,445,181,423,192,387,220,356,254,310,316"/>
+<area shape="rect" id="Node000007" href="$d4/da0/classRayTracer_1_1Menger.html" title="Fractal “Menger Sponge” built from axis&#45;aligned boxes." alt="" coords="435,203,578,228"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="315,315,361,275,420,237,449,226,450,230,423,242,364,280,318,319"/>
+<area shape="rect" id="Node000008" href="$dc/da2/classRayTracer_1_1Plane.html" title="Infinite, single&#45;sided plane primitive." alt="" coords="441,252,572,277"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="335,319,420,286,457,275,458,280,422,291,337,324"/>
+<area shape="rect" id="Node000009" href="$da/dad/classRayTracer_1_1Rotation.html" title="Applies 3D Euler rotation to a primitive using a rotation matrix." alt="" coords="432,301,581,327"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="387,325,431,320,432,325,387,331"/>
+<area shape="rect" id="Node000010" href="$de/d10/classRayTracer_1_1Shear.html" title="Applies a 3D shear transformation to a wrapped primitive." alt="" coords="441,351,572,376"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="387,347,442,353,441,359,386,353"/>
+<area shape="rect" id="Node000011" href="$d3/d44/classRayTracer_1_1Sierpinski.html" title="Représente un tétraèdre de Sierpinski récursif." alt="" coords="427,400,586,425"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="339,354,422,385,462,397,460,402,420,390,337,360"/>
+<area shape="rect" id="Node000012" href="$d3/d0e/classRayTracer_1_1Sphere.html" title="Sphere primitive for ray tracing." alt="" coords="437,449,576,475"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="319,359,365,397,423,434,454,447,452,452,420,439,362,402,315,363"/>
+<area shape="rect" id="Node000013" href="$d0/db2/classRayTracer_1_1TangleCube.html" title="Implicit tangleCube fractal surface." alt="" coords="422,499,591,524"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="310,362,356,423,387,456,423,484,449,496,446,501,420,488,384,460,352,427,306,365"/>
+<area shape="rect" id="Node000014" href="$df/d3f/classRayTracer_1_1Tetrahedron.html" title="Primitive composée de 4 triangles formant un tétraèdre." alt="" coords="421,548,592,573"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="305,363,323,401,348,447,382,494,423,533,446,546,443,550,420,537,378,497,344,450,318,404,301,366"/>
+<area shape="rect" id="Node000015" href="$d3/db2/classRayTracer_1_1Torus.html" title="3D primitives representating a Torus." alt="" coords="443,597,571,623"/>
+<area shape="poly" id="edge14_Node000002_Node000015" title=" " alt="" coords="302,364,317,411,341,470,376,531,398,558,423,583,444,595,441,599,420,587,394,562,372,534,336,473,312,413,297,366"/>
+<area shape="rect" id="Node000016" href="$d5/d77/classRayTracer_1_1Triangle.html" title="Triangle primitive for ray tracing." alt="" coords="434,647,579,672"/>
+<area shape="poly" id="edge15_Node000002_Node000016" title=" " alt="" coords="300,365,312,421,334,493,351,531,371,568,395,602,423,632,443,644,440,649,420,636,391,605,366,570,346,533,329,494,306,422,295,366"/>
+</map>

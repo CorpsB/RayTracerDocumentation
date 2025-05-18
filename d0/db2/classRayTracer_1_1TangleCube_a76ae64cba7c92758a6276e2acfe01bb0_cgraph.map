@@ -1,0 +1,5 @@
+<map id="RayTracer::TangleCube::hits" name="RayTracer::TangleCube::hits">
+<area shape="rect" id="Node000001" title="Attempt ray–fractal intersection." alt="" coords="5,5,175,45"/>
+<area shape="rect" id="Node000002" href="$d6/d30/structMath_1_1Vector3D.html#a4c208026b6867d4c99afa13ddc3b9278" title="Computes the Euclidean length (norm) of the vector." alt="" coords="223,13,393,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,23,209,23,209,28,175,28"/>
+</map>

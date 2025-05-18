@@ -1,0 +1,40 @@
+<map id="Utils::renderImage" name="Utils::renderImage">
+<area shape="rect" id="Node000001" title="Performs the raytracing process and produces the framebuffer." alt="" coords="5,153,148,178"/>
+<area shape="rect" id="Node000002" href="$d9/d83/namespaceUtils_1_1Parallel.html#ab44c0e5cb1b952802aa37c4f94242ab6" title="Execute a parallel for loop from start to end &#45; 1." alt="" coords="201,78,366,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,150,195,112,218,105,220,110,197,117,106,155"/>
+<area shape="rect" id="Node000003" href="$d4/d3d/namespaceUtils.html#aaf2c4e5a59ec45284cfcdf257a9218f1" title="Prints a terminal progress bar for rendering." alt="" coords="199,127,367,153"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,154,185,149,186,155,149,159"/>
+<area shape="rect" id="Node000004" href="$dc/dd2/classRayTracer_1_1Camera.html#a6e15aa9e80304dd752366647553f2f5f" title="Generate a primary ray through screen coordinates *(s,t)*." alt="" coords="196,177,371,202"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="149,171,183,175,182,180,148,176"/>
+<area shape="rect" id="Node000005" href="$d1/df4/namespaceRayTracer.html#ab1ca8a59872e03b73fafc26443c5c1df" title="Recursive path&#45;tracing integrator." alt="" coords="217,250,350,275"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="106,176,244,242,242,246,104,180"/>
+<area shape="poly" id="edge17_Node000005_Node000005" title=" " alt="" coords="250,252,242,242,246,232,260,226,283,223,312,227,323,236,320,240,310,232,283,229,261,231,250,235,248,241,254,248"/>
+<area shape="rect" id="Node000006" href="$d0/d82/classRayTracer_1_1ILight.html#a47469714a2ccb5287845a4f059f224cf" title="Compute the incoming light direction at a surface point." alt="" coords="460,5,599,45"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="318,248,345,233,369,212,381,192,387,174,390,137,394,100,402,81,417,62,446,42,449,46,421,66,407,84,399,101,396,137,392,175,386,195,373,215,348,237,321,252"/>
+<area shape="rect" id="Node000007" href="$d6/d30/structMath_1_1Vector3D.html#aa57c357f4be8837461cdd32bd3e5d7dc" title="Computes the dot product between this and another vector." alt="" coords="714,71,865,97"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="315,248,343,232,369,212,384,188,390,164,397,141,417,119,450,100,486,86,560,70,634,65,700,68,700,73,634,70,561,75,487,91,452,105,420,123,402,143,395,165,389,190,373,215,346,237,318,252"/>
+<area shape="rect" id="Node000008" href="$dc/d25/classRayTracer_1_1Scene.html#adb32144e3e23e2bb9a6e6d702f6d52e7" title="Intersect a ray with all objects in the scene." alt="" coords="450,221,609,246"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="350,252,436,242,437,247,351,257"/>
+<area shape="rect" id="Node000009" href="$d0/d82/classRayTracer_1_1ILight.html#a38eab6f380194227f9c1085260092315" title="Get the scalar intensity (power) of the light." alt="" coords="460,271,599,311"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="351,268,447,279,446,284,350,273"/>
+<area shape="rect" id="Node000010" href="$d6/d30/structMath_1_1Vector3D.html#a598b2b7fe5b2b34c111ee68015080334" title="Returns a normalized (unit&#45;length) copy of the vector." alt="" coords="428,335,631,361"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="310,273,360,297,420,320,451,329,450,335,418,325,358,302,308,278"/>
+<area shape="rect" id="Node000011" href="$d0/d82/classRayTracer_1_1ILight.html#ab7ee56a002dd2f9adbee38aaee4b1538" title="Retrieve the light’s world&#45;space position if applicable." alt="" coords="460,385,599,425"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="299,274,349,321,383,348,420,371,448,383,446,388,417,376,380,352,345,325,295,278"/>
+<area shape="rect" id="Node000012" href="$d1/df4/namespaceRayTracer.html#ae95ed0335c1ba084545f21d7f61c8942" title="Generate a single uniform random number in [0,1)." alt="" coords="720,122,859,147"/>
+<area shape="poly" id="edge11_Node000005_Node000012" title=" " alt="" coords="311,248,340,232,369,211,383,197,391,182,401,168,417,156,453,141,490,131,567,118,641,116,706,120,706,125,641,122,567,124,491,136,455,147,420,161,404,172,395,185,387,200,372,215,343,236,313,252"/>
+<area shape="rect" id="Node000013" href="$d1/df4/namespaceRayTracer.html#ab7c27bbad4b80e8966900494064dbb20" title="Cosine&#45;weighted hemisphere sampling around a shading normal." alt="" coords="419,171,640,197"/>
+<area shape="poly" id="edge12_Node000005_Node000013" title=" " alt="" coords="311,248,360,226,418,205,447,197,449,202,419,211,362,231,313,252"/>
+<area shape="rect" id="Node000016" href="$db/d92/namespaceSkybox.html#a4a9c986d1ee3f28f9b2e419b743f5ebf" title="Procedural horizon&#45;to&#45;zenith gradient." alt="" coords="452,450,607,475"/>
+<area shape="poly" id="edge18_Node000005_Node000016" title=" " alt="" coords="293,274,310,307,338,351,375,397,420,435,440,445,438,450,417,440,371,401,334,354,306,310,288,277"/>
+<area shape="rect" id="Node000018" href="$d0/d82/classRayTracer_1_1ILight.html#a4aaa93d94da7fc685a2a98a57310b3e5" title="Get the type of this light." alt="" coords="446,499,613,525"/>
+<area shape="poly" id="edge20_Node000005_Node000018" title=" " alt="" coords="291,274,305,316,331,374,369,435,393,462,420,486,435,494,432,499,417,490,389,466,365,438,326,376,300,318,286,276"/>
+<area shape="poly" id="edge14_Node000013_Node000007" title=" " alt="" coords="553,169,613,138,687,107,716,98,717,103,689,112,615,143,555,174"/>
+<area shape="poly" id="edge16_Node000013_Node000012" title=" " alt="" coords="596,169,708,147,709,153,597,174"/>
+<area shape="rect" id="Node000014" href="$d6/d30/structMath_1_1Vector3D.html#ad9bca728f96bfb94acebaf6cc63109c3" title="Computes the cross product between this and another vector." alt="" coords="707,221,871,246"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="597,194,709,215,708,221,596,199"/>
+<area shape="rect" id="Node000015" href="$d6/d30/structMath_1_1Vector3D.html#a4c208026b6867d4c99afa13ddc3b9278" title="Computes the Euclidean length (norm) of the vector." alt="" coords="704,171,875,197"/>
+<area shape="poly" id="edge15_Node000013_Node000015" title=" " alt="" coords="640,181,690,181,690,187,640,187"/>
+<area shape="rect" id="Node000017" href="$d7/de5/structSkybox_1_1PPMImage.html#a8413ea1e39e4485b4d3126688f0f478c" title="Bilinear sample in normalised texture coordinates." alt="" coords="688,450,891,475"/>
+<area shape="poly" id="edge19_Node000016_Node000017" title=" " alt="" coords="607,460,674,460,674,465,607,465"/>
+</map>

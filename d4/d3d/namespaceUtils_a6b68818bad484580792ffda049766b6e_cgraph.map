@@ -1,0 +1,7 @@
+<map id="Utils::buildBVH" name="Utils::buildBVH">
+<area shape="rect" id="Node000001" title="Builds a BVH from a list of smart pointers to primitives." alt="" coords="5,31,125,56"/>
+<area shape="rect" id="Node000002" href="$d1/df4/namespaceRayTracer.html#abe4ebec0fced68876c86cde562a43377" title=" " alt="" coords="181,5,335,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,33,167,27,167,33,126,38"/>
+<area shape="rect" id="Node000003" href="$d4/d3d/namespaceUtils.html#a4ba3286c32e42accbb64c604ca149a6d" title="Extracts raw pointers to primitives from shared_ptr objects." alt="" coords="173,55,343,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="126,48,160,52,159,58,125,53"/>
+</map>

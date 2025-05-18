@@ -1,0 +1,5 @@
+<map id="Utils::adjustContrast" name="Utils::adjustContrast">
+<area shape="rect" id="Node000001" title="Adjusts the contrast of a color." alt="" coords="5,5,160,31"/>
+<area shape="rect" id="Node000002" href="$d4/d3d/namespaceUtils.html#a484f75fdabfed9dc1e79c9d10f00ecf3" title="Clamp a float to the [0, 1] range." alt="" coords="208,5,324,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,15,194,15,194,21,160,21"/>
+</map>

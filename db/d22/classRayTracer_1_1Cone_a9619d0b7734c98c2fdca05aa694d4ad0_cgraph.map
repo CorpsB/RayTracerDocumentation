@@ -1,0 +1,9 @@
+<map id="RayTracer::Cone::hits" name="RayTracer::Cone::hits">
+<area shape="rect" id="Node000001" title="Ray–cone intersection: side + base cap." alt="" coords="5,55,164,80"/>
+<area shape="rect" id="Node000002" href="$d6/d30/structMath_1_1Vector3D.html#ad9bca728f96bfb94acebaf6cc63109c3" title="Computes the cross product between this and another vector." alt="" coords="215,5,379,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,52,228,31,229,36,141,57"/>
+<area shape="rect" id="Node000003" href="$d6/d30/structMath_1_1Vector3D.html#aa57c357f4be8837461cdd32bd3e5d7dc" title="Computes the dot product between this and another vector." alt="" coords="222,55,373,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,65,209,65,209,70,164,70"/>
+<area shape="rect" id="Node000004" href="$d6/d30/structMath_1_1Vector3D.html#a4c208026b6867d4c99afa13ddc3b9278" title="Computes the Euclidean length (norm) of the vector." alt="" coords="212,104,383,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="141,77,229,98,228,103,139,83"/>
+</map>

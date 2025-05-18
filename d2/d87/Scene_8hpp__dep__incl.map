@@ -1,0 +1,39 @@
+<map id="include/rendering/Scene.hpp" name="include/rendering/Scene.hpp">
+<area shape="rect" id="Node000001" title="Declares the scene container: camera, objects, lights, and top&#45;level BVH." alt="" coords="464,5,671,31"/>
+<area shape="rect" id="Node000002" href="$d0/d3a/Raytracer_8hpp.html" title="Declares the main Raytracer application class for program execution and argument handling." alt="" coords="233,86,428,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="521,37,366,89,364,83,519,32"/>
+<area shape="rect" id="Node000003" href="$d7/d09/Utils_8hpp.html" title="Utility functions and structures for raytracer configuration, rendering and post&#45;processing." alt="" coords="510,167,673,192"/>
+<area shape="poly" id="edge12_Node000001_Node000003" title=" " alt="" coords="639,33,671,51,698,77,705,99,698,120,685,137,668,150,632,169,630,164,665,146,681,133,693,117,700,99,693,80,668,55,636,38"/>
+<area shape="rect" id="Node000004" href="$da/d7d/Visualizer_8hpp.html" title=" " alt="" coords="484,240,680,265"/>
+<area shape="poly" id="edge13_Node000001_Node000004" title=" " alt="" coords="451,23,287,33,201,44,123,59,60,81,37,95,20,110,10,126,9,145,16,166,33,190,54,201,94,211,213,227,354,238,484,245,484,250,354,244,212,232,93,216,52,206,30,194,11,169,4,146,5,125,16,106,34,90,58,76,122,54,200,38,286,28,450,18"/>
+<area shape="rect" id="Node000009" href="$d3/d79/SceneParser_8cpp.html" title="Implements the scene loading system using libconfig for the raytracer engine." alt="" coords="206,167,409,192"/>
+<area shape="poly" id="edge22_Node000001_Node000009" title=" " alt="" coords="451,26,381,33,314,43,257,59,237,69,223,80,217,89,216,98,223,117,234,133,248,145,279,164,277,169,245,150,230,136,219,120,211,98,212,88,219,77,234,64,256,54,313,38,381,27,450,21"/>
+<area shape="rect" id="Node000010" href="$df/d7b/SceneParser_8hpp.html" title="Declares functions to load scenes from configuration files (.cfg) into a Scene object." alt="" coords="452,86,683,111"/>
+<area shape="poly" id="edge14_Node000001_Node000010" title=" " alt="" coords="570,44,570,86,565,86,565,44"/>
+<area shape="rect" id="Node000011" href="$d1/d3a/ShadowShading_8hpp.html" title=" " alt="" coords="759,79,950,119"/>
+<area shape="poly" id="edge17_Node000001_Node000011" title=" " alt="" coords="623,32,786,76,785,81,622,37"/>
+<area shape="rect" id="Node000014" href="$de/d15/Scene_8cpp.html" title=" " alt="" coords="974,86,1151,111"/>
+<area shape="poly" id="edge23_Node000001_Node000014" title=" " alt="" coords="663,30,963,76,1004,83,1003,89,962,81,662,35"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="375,113,548,164,546,169,374,118"/>
+<area shape="rect" id="Node000005" href="$df/d39/Raytracer_8cpp.html" title="Implements the main execution flow of the Raytracer application, including argument parsing,..." alt="" coords="404,313,571,339"/>
+<area shape="poly" id="edge9_Node000002_Node000005" title=" " alt="" coords="365,116,395,137,423,165,448,204,467,246,488,312,482,314,462,248,443,207,419,168,392,142,362,121"/>
+<area shape="rect" id="Node000008" href="$df/d0a/main_8cpp.html" title="Entry point of the raytracer application. Initializes and runs the Raytracer engine." alt="" coords="44,167,182,192"/>
+<area shape="poly" id="edge10_Node000002_Node000008" title=" " alt="" coords="287,118,145,169,144,164,285,113"/>
+<area shape="poly" id="edge11_Node000002_Node000009" title=" " alt="" coords="326,125,313,167,308,166,320,124"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="547,165,374,114,376,109,548,160"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="591,206,586,240,581,240,586,205"/>
+<area shape="rect" id="Node000006" href="$d7/dd9/Visualizer_8cpp.html" title="Implements visualization modes for the raytracer using SFML." alt="" coords="635,313,802,339"/>
+<area shape="poly" id="edge8_Node000003_Node000006" title=" " alt="" coords="638,196,668,213,695,238,706,257,714,277,720,313,715,314,708,279,701,259,691,242,665,218,635,200"/>
+<area shape="rect" id="Node000007" href="$df/d0c/Utils_8cpp.html" title="Implements utility functions for argument parsing, rendering, post&#45;processing, and denoising in the r..." alt="" coords="756,240,891,265"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="642,193,787,237,785,242,641,198"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="558,276,505,315,501,311,555,271"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="617,269,697,311,695,315,615,274"/>
+<area shape="poly" id="edge15_Node000010_Node000003" title=" " alt="" coords="578,124,591,166,585,167,573,125"/>
+<area shape="poly" id="edge16_Node000010_Node000009" title=" " alt="" coords="518,118,346,169,345,164,516,113"/>
+<area shape="poly" id="edge18_Node000011_Node000003" title=" " alt="" coords="779,125,631,169,629,164,777,120"/>
+<area shape="poly" id="edge19_Node000011_Node000006" title=" " alt="" coords="885,128,897,146,906,166,916,194,921,218,919,242,906,267,885,288,859,304,831,315,802,322,801,317,829,310,857,299,881,284,901,264,914,240,916,219,910,195,901,168,892,148,880,131"/>
+<area shape="rect" id="Node000012" href="$d7/dbd/ShadowShading_8cpp.html" title=" " alt="" coords="967,167,1208,192"/>
+<area shape="poly" id="edge20_Node000011_Node000012" title=" " alt="" coords="924,120,1054,164,1053,169,922,126"/>
+<area shape="rect" id="Node000013" href="$d6/dc9/Skybox_8cpp.html" title=" " alt="" coords="706,167,891,192"/>
+<area shape="poly" id="edge21_Node000011_Node000013" title=" " alt="" coords="835,132,809,168,804,165,831,128"/>
+</map>

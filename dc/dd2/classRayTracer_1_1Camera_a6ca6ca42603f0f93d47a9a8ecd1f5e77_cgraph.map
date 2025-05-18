@@ -1,0 +1,5 @@
+<map id="RayTracer::Camera::random_in_unit_disk" name="RayTracer::Camera::random_in_unit_disk">
+<area shape="rect" id="Node000001" title="Random point inside a unit disk in the xy&#45;plane." alt="" coords="5,5,163,45"/>
+<area shape="rect" id="Node000002" href="$d6/d30/structMath_1_1Vector3D.html#aa57c357f4be8837461cdd32bd3e5d7dc" title="Computes the dot product between this and another vector." alt="" coords="211,13,361,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,23,197,23,197,28,163,28"/>
+</map>

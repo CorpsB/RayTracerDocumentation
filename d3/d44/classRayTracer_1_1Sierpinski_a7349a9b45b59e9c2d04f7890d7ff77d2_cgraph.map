@@ -1,0 +1,5 @@
+<map id="RayTracer::Sierpinski::bounds" name="RayTracer::Sierpinski::bounds">
+<area shape="rect" id="Node000001" title="Returns the axis&#45;aligned bounding box of the primitive." alt="" coords="5,5,164,45"/>
+<area shape="rect" id="Node000002" href="$d1/df4/namespaceRayTracer.html#a0bc074580b691740461a3c8d68f4fb89" title=" " alt="" coords="212,13,415,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,23,198,23,198,28,164,28"/>
+</map>

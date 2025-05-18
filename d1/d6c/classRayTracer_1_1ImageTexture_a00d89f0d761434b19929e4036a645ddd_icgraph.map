@@ -1,0 +1,5 @@
+<map id="RayTracer::ImageTexture::skipComments" name="RayTracer::ImageTexture::skipComments">
+<area shape="rect" id="Node000001" title="Skip PPM comment lines (starting with ‘::’) while reading." alt="" coords="236,5,419,45"/>
+<area shape="rect" id="Node000002" href="$d1/d6c/classRayTracer_1_1ImageTexture.html#a085b22339aa4838cc8ce67d1cd0b1b4b" title="Load an image from disk." alt="" coords="5,5,188,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,28,188,28,188,23,223,23"/>
+</map>

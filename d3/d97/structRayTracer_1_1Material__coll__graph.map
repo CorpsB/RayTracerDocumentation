@@ -1,0 +1,5 @@
+<map id="RayTracer::Material" name="RayTracer::Material">
+<area shape="rect" id="Node000001" title="Physically&#45;based material parameters." alt="" coords="5,123,153,148"/>
+<area shape="rect" id="Node000002" href="$d6/d30/structMath_1_1Vector3D.html" title="Represents a 3D vector with real coordinates." alt="" coords="18,5,141,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,44,82,123,77,123,77,44"/>
+</map>

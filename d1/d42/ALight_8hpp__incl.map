@@ -1,0 +1,13 @@
+<map id="include/rendering/ALight.hpp" name="include/rendering/ALight.hpp">
+<area shape="rect" id="Node000001" title="Abstract base class partially implementing the ILight interface." alt="" coords="5,5,213,31"/>
+<area shape="rect" id="Node000002" href="$da/da7/ILight_8hpp.html" title="Abstract interface for all light sources in the path tracer." alt="" coords="66,79,153,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,31,112,65,107,65,107,31"/>
+<area shape="rect" id="Node000003" href="$df/df2/Point3D_8hpp.html" title="Defines a 3D point structure used in geometric computations." alt="" coords="93,152,238,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,103,150,140,146,143,116,106"/>
+<area shape="rect" id="Node000004" href="$d3/dde/Vector3D_8hpp.html" title="Defines a 3D vector structure with basic arithmetic and transformation operations." alt="" coords="19,225,128,251"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="104,106,93,127,83,153,77,183,76,211,70,211,72,182,77,151,88,125,100,103"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="152,179,101,219,97,215,149,175"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="87,299,150,324"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="165,178,143,251,130,287,125,285,137,250,160,177"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="83,250,106,286,102,289,79,252"/>
+</map>

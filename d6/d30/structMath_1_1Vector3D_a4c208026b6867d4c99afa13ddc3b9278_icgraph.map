@@ -1,0 +1,40 @@
+<map id="Math::Vector3D::length" name="Math::Vector3D::length">
+<area shape="rect" id="Node000001" title="Computes the Euclidean length (norm) of the vector." alt="" coords="1237,270,1408,295"/>
+<area shape="rect" id="Node000002" href="$dc/dd2/classRayTracer_1_1Camera.html#a4caf3b5d56694b095e324a36531f9f05" title="Build a camera looking from lookfrom towards lookat." alt="" coords="1002,5,1155,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1311,258,1294,215,1269,161,1233,106,1212,81,1188,60,1154,42,1157,37,1191,55,1216,77,1237,103,1273,158,1299,212,1316,256"/>
+<area shape="rect" id="Node000003" href="$d0/db2/classRayTracer_1_1TangleCube.html#a76ae64cba7c92758a6276e2acfe01bb0" title="Attempt ray–fractal intersection." alt="" coords="994,69,1163,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1305,259,1259,191,1226,155,1188,124,1162,110,1165,106,1191,119,1230,151,1263,188,1310,256"/>
+<area shape="rect" id="Node000004" href="$d3/db2/classRayTracer_1_1Torus.html#a2b7f931655b3a86b70de86914f0b88fd" title="Trys intersection between radius/torus." alt="" coords="999,134,1159,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1299,262,1252,216,1221,193,1188,173,1158,162,1160,157,1190,168,1224,188,1255,212,1303,258"/>
+<area shape="rect" id="Node000005" href="$db/d22/classRayTracer_1_1Cone.html#a9619d0b7734c98c2fdca05aa694d4ad0" title="Ray–cone intersection: side + base cap." alt="" coords="999,183,1158,209"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1285,266,1239,244,1188,224,1144,211,1146,206,1190,219,1241,239,1287,261"/>
+<area shape="rect" id="Node000006" href="$d8/d07/classRayTracer_1_1Cylinder.html#acf80bd4840c66778143357fbcb4980c6" title="Ray–cylinder intersection test." alt="" coords="1005,233,1153,273"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1223,273,1153,265,1153,260,1224,268"/>
+<area shape="rect" id="Node000007" href="$dc/da2/classRayTracer_1_1Plane.html#adf42784a24fe49eaf20f3ae92eeb7fa4" title="Ray–plane intersection." alt="" coords="997,298,1160,323"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="1224,297,1160,304,1160,299,1223,291"/>
+<area shape="rect" id="Node000008" href="$d5/d77/classRayTracer_1_1Triangle.html#ad13f001de30ab080e537d2653fc463fc" title="Ray–triangle intersection test with hit record." alt="" coords="1006,348,1151,388"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="1279,303,1190,337,1150,350,1148,345,1188,332,1278,298"/>
+<area shape="rect" id="Node000009" href="$d5/d77/classRayTracer_1_1Triangle.html#a7bee0072308947550a93118f1f1e0b7f" title="Ray–triangle intersection without back&#45;face culling." alt="" coords="1006,412,1151,452"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="1303,308,1255,355,1224,381,1191,402,1153,418,1151,413,1188,398,1221,376,1251,352,1299,304"/>
+<area shape="rect" id="Node000010" href="$d3/d79/SceneParser_8cpp.html#a719f34dae6ee5f4594209dea344bdee0" title=" " alt="" coords="1025,477,1133,502"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="1313,309,1294,345,1267,388,1233,430,1191,466,1163,480,1134,487,1132,482,1161,475,1188,462,1229,427,1263,385,1289,342,1308,307"/>
+<area shape="rect" id="Node000016" href="$d1/df4/namespaceRayTracer.html#ab7c27bbad4b80e8966900494064dbb20" title="Cosine&#45;weighted hemisphere sampling around a shading normal." alt="" coords="968,531,1189,557"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="1316,310,1300,355,1275,411,1239,468,1216,494,1191,517,1160,534,1157,529,1188,512,1212,490,1234,465,1270,408,1296,352,1311,308"/>
+<area shape="rect" id="Node000011" href="$d1/df4/namespaceRayTracer.html#a4bbc9c3996d70f6a71cf4d185a4811d6" title="Loads a single scene file (non&#45;recursive)." alt="" coords="759,470,920,495"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1011,490,920,488,920,482,1011,485"/>
+<area shape="rect" id="Node000012" href="$d1/df4/namespaceRayTracer.html#a9aa92d0c88c2ac9be33f27ba71e8ceaa" title="Recursively loads a scene and any referenced sub&#45;scenes from file(s)." alt="" coords="485,477,711,502"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="745,488,711,489,711,484,745,483"/>
+<area shape="poly" id="edge15_Node000012_Node000012" title=" " alt="" coords="641,468,630,459,598,455,572,457,559,462,556,468,563,475,559,478,551,468,555,458,571,452,598,450,632,454,645,463"/>
+<area shape="rect" id="Node000013" href="$d4/d3d/namespaceUtils.html#a763a2a5523575e2175022d2623a77d05" title="Loads a scene from file, or exits on failure." alt="" coords="271,483,437,509"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="472,495,438,496,437,491,472,490"/>
+<area shape="rect" id="Node000014" href="$dd/dea/classRaytracer.html#a844a5a660abbb9d21608fc170074e0c5" title="Launch the raytracing process." alt="" coords="108,509,223,534"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="258,512,223,516,222,511,257,506"/>
+<area shape="rect" id="Node000015" href="$df/d0a/main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="Raimond is a good Raytracer. Logic, it&#39;s Raimond." alt="" coords="5,509,60,534"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="94,524,60,524,60,519,94,519"/>
+<area shape="rect" id="Node000017" href="$d1/df4/namespaceRayTracer.html#ab1ca8a59872e03b73fafc26443c5c1df" title="Recursive path&#45;tracing integrator." alt="" coords="773,543,906,569"/>
+<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="954,553,906,555,906,550,954,548"/>
+<area shape="poly" id="edge20_Node000017_Node000017" title=" " alt="" coords="882,534,871,525,839,522,814,524,800,529,798,534,805,541,801,545,792,535,797,525,813,519,839,517,873,521,885,530"/>
+<area shape="rect" id="Node000018" href="$d4/d3d/namespaceUtils.html#a8e063dafa9ed499eae606a8effdb5130" title="Performs the raytracing process and produces the framebuffer." alt="" coords="283,533,425,558"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="759,557,425,550,426,544,759,552"/>
+<area shape="poly" id="edge19_Node000018_Node000014" title=" " alt="" coords="269,537,223,531,224,526,269,532"/>
+</map>

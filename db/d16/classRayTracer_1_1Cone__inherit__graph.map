@@ -1,0 +1,7 @@
+<map id="RayTracer::Cone" name="RayTracer::Cone">
+<area shape="rect" id="Node000001" title="Finite (capped) right‐circular cone primitive." alt="" coords="23,152,150,177"/>
+<area shape="rect" id="Node000002" href="$d9/d3d/classRayTracer_1_1APrimitive.html" title=" " alt="" coords="5,79,168,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,118,89,152,84,152,84,118"/>
+<area shape="rect" id="Node000003" href="$da/d13/classRayTracer_1_1IPrimitive.html" title="Pure interface that every geometric primitive must implement." alt="" coords="8,5,165,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,44,89,79,84,79,84,44"/>
+</map>

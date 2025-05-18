@@ -1,0 +1,7 @@
+<map id="include/loaders/STLLoader.hpp" name="include/loaders/STLLoader.hpp">
+<area shape="rect" id="Node000001" title="Declares a loader class for importing 3D models from STL files into Mesh objects." alt="" coords="102,5,321,31"/>
+<area shape="rect" id="Node000002" href="$d3/d4f/STLLoader_8cpp.html" title="Implementation of STL (Stereolithography) file loading for 3D mesh import in the raytracer." alt="" coords="5,79,196,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,40,120,81,117,76,181,36"/>
+<area shape="rect" id="Node000003" href="$d3/d79/SceneParser_8cpp.html" title="Implements the scene loading system using libconfig for the raytracer engine." alt="" coords="221,79,423,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,36,305,76,302,81,239,40"/>
+</map>
