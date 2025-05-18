@@ -37,5 +37,8 @@ var searchData=
   ['stlloader_34',['STLLoader',['../d5/d90/classRayTracer_1_1STLLoader.html',1,'RayTracer']]],
   ['stlloader_2ecpp_35',['STLLoader.cpp',['../d3/d4f/STLLoader_8cpp.html',1,'']]],
   ['stlloader_2ehpp_36',['STLLoader.hpp',['../da/db1/STLLoader_8hpp.html',1,'']]],
-  ['surrounding_5fbox_37',['surrounding_box',['../d1/df4/namespaceRayTracer.html#a0bc074580b691740461a3c8d68f4fb89',1,'RayTracer']]]
+  ['strategy_37',['🔁 Patron Strategy',['../dd/db2/md_scripts_2Doc_2README__FR.html#autotoc_md50',1,'']]],
+  ['strategy_20pattern_38',['🔁 Strategy Pattern',['../df/d70/md_scripts_2Doc_2README__EN.html#autotoc_md22',1,'']]],
+  ['summary_39',['Summary',['../df/d70/md_scripts_2Doc_2README__EN.html#autotoc_md34',1,'']]],
+  ['surrounding_5fbox_40',['surrounding_box',['../d1/df4/namespaceRayTracer.html#a0bc074580b691740461a3c8d68f4fb89',1,'RayTracer']]]
 ];

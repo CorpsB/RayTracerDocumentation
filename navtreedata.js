@@ -26,6 +26,60 @@ var NAVTREE =
 [
   [ "Raytracer", "index.html", [
     [ "Raytracer - OOP", "index.html", "index" ],
+    [ "🧠 Design Patterns in RayTracer", "df/d70/md_scripts_2Doc_2README__EN.html", [
+      [ "🏭 Factory Pattern", "df/d70/md_scripts_2Doc_2README__EN.html#autotoc_md10", [
+        [ "➤ What is it?", "df/d70/md_scripts_2Doc_2README__EN.html#autotoc_md11", null ],
+        [ "➤ How is it used?", "df/d70/md_scripts_2Doc_2README__EN.html#autotoc_md12", null ]
+      ] ],
+      [ "🧱 Composite Pattern", "df/d70/md_scripts_2Doc_2README__EN.html#autotoc_md14", [
+        [ "➤ What is it?", "df/d70/md_scripts_2Doc_2README__EN.html#autotoc_md15", null ],
+        [ "➤ How is it used?", "df/d70/md_scripts_2Doc_2README__EN.html#autotoc_md16", null ]
+      ] ],
+      [ "🧩 Decorator Pattern", "df/d70/md_scripts_2Doc_2README__EN.html#autotoc_md18", [
+        [ "➤ What is it?", "df/d70/md_scripts_2Doc_2README__EN.html#autotoc_md19", null ],
+        [ "➤ How is it used?", "df/d70/md_scripts_2Doc_2README__EN.html#autotoc_md20", null ]
+      ] ],
+      [ "🔁 Strategy Pattern", "df/d70/md_scripts_2Doc_2README__EN.html#autotoc_md22", [
+        [ "➤ What is it?", "df/d70/md_scripts_2Doc_2README__EN.html#autotoc_md23", null ],
+        [ "➤ How is it used?", "df/d70/md_scripts_2Doc_2README__EN.html#autotoc_md24", null ]
+      ] ],
+      [ "🛠️ Builder Pattern (informal)", "df/d70/md_scripts_2Doc_2README__EN.html#autotoc_md26", [
+        [ "➤ What is it?", "df/d70/md_scripts_2Doc_2README__EN.html#autotoc_md27", null ],
+        [ "➤ How is it used?", "df/d70/md_scripts_2Doc_2README__EN.html#autotoc_md28", null ]
+      ] ],
+      [ "❗ Custom Exception Handling", "df/d70/md_scripts_2Doc_2README__EN.html#autotoc_md30", [
+        [ "➤ What is it?", "df/d70/md_scripts_2Doc_2README__EN.html#autotoc_md31", null ],
+        [ "➤ How is it used?", "df/d70/md_scripts_2Doc_2README__EN.html#autotoc_md32", null ]
+      ] ],
+      [ "Summary", "df/d70/md_scripts_2Doc_2README__EN.html#autotoc_md34", null ]
+    ] ],
+    [ "🧠 Patrons de conception dans RayTracer", "dd/db2/md_scripts_2Doc_2README__FR.html", [
+      [ "🏭 Patron Factory (Usine)", "dd/db2/md_scripts_2Doc_2README__FR.html#autotoc_md38", [
+        [ "➤ Définition", "dd/db2/md_scripts_2Doc_2README__FR.html#autotoc_md39", null ],
+        [ "➤ Utilisation dans le projet", "dd/db2/md_scripts_2Doc_2README__FR.html#autotoc_md40", null ]
+      ] ],
+      [ "🧱 Patron Composite", "dd/db2/md_scripts_2Doc_2README__FR.html#autotoc_md42", [
+        [ "➤ Définition", "dd/db2/md_scripts_2Doc_2README__FR.html#autotoc_md43", null ],
+        [ "➤ Utilisation dans le projet", "dd/db2/md_scripts_2Doc_2README__FR.html#autotoc_md44", null ]
+      ] ],
+      [ "🧩 Patron Decorator", "dd/db2/md_scripts_2Doc_2README__FR.html#autotoc_md46", [
+        [ "➤ Définition", "dd/db2/md_scripts_2Doc_2README__FR.html#autotoc_md47", null ],
+        [ "➤ Utilisation dans le projet", "dd/db2/md_scripts_2Doc_2README__FR.html#autotoc_md48", null ]
+      ] ],
+      [ "🔁 Patron Strategy", "dd/db2/md_scripts_2Doc_2README__FR.html#autotoc_md50", [
+        [ "➤ Définition", "dd/db2/md_scripts_2Doc_2README__FR.html#autotoc_md51", null ],
+        [ "➤ Utilisation dans le projet", "dd/db2/md_scripts_2Doc_2README__FR.html#autotoc_md52", null ]
+      ] ],
+      [ "🛠️ Patron Builder (informel)", "dd/db2/md_scripts_2Doc_2README__FR.html#autotoc_md54", [
+        [ "➤ Définition", "dd/db2/md_scripts_2Doc_2README__FR.html#autotoc_md55", null ],
+        [ "➤ Utilisation dans le projet", "dd/db2/md_scripts_2Doc_2README__FR.html#autotoc_md56", null ]
+      ] ],
+      [ "❗ Gestion d’erreur personnalisée", "dd/db2/md_scripts_2Doc_2README__FR.html#autotoc_md58", [
+        [ "➤ Définition", "dd/db2/md_scripts_2Doc_2README__FR.html#autotoc_md59", null ],
+        [ "➤ Utilisation dans le projet", "dd/db2/md_scripts_2Doc_2README__FR.html#autotoc_md60", null ]
+      ] ],
+      [ "Récapitulatif", "dd/db2/md_scripts_2Doc_2README__FR.html#autotoc_md62", null ]
+    ] ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
@@ -63,7 +117,8 @@ var NAVTREEINDEX =
 "annotated.html",
 "d4/d25/Primitive_8cpp.html",
 "d8/d07/classRayTracer_1_1Cylinder.html#a1ab430c74cc560c5b68dafdd56e50997",
-"dc/dd2/classRayTracer_1_1Camera.html#a6e15aa9e80304dd752366647553f2f5f"
+"dc/dd2/classRayTracer_1_1Camera.html#a6e15aa9e80304dd752366647553f2f5f",
+"functions_d.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
